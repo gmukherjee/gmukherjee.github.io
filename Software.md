@@ -1,6 +1,18 @@
 ---
-layout: blog
+layout: default
 ---
+
+<br/>
+<b>BMT: Big Merge Tracker</b>
+
+<br/>
+<br/>
+<b>COSCI: COnvex Screening for Cluster Information</b>
+
+<br/>
+<br/>
+<b>ASUS: Adaptive Sparse Estimation using side information</b>
+
 
 <div class="posts-list">
   {% for post in paginator.posts %}
