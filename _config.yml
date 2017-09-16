@@ -27,6 +27,7 @@ use-site-title: true
 navbar-links:
   Research: "Research"
   Teaching: "Teaching"
+  Software: "Software"
 #  Resources:
 #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
