@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<b>Selected Works:</b>
+<b>Selected Theory &amp Method Works:</b>
 <br/>
 <br/>
 &#8226; Mukherjee G and Johnstone IM. <a href='http://www-bcf.usc.edu/~gourab/l0-sparsity.pdf'><em>Exact minimax estimation of the predictive density in sparse Gaussian models</em></a>. Annals of Statistics, 2015.
