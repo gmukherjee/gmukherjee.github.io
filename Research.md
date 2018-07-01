@@ -48,13 +48,11 @@ layout: default
 <br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.  
 </p>
-<br/>
 <p>
 &#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
   <br/> &#160; Stanford University, 2013.
   <br/> &#160; Advisor: Iain M. Johnstone. Committee: Diaconis P, Donoho DL.
 </p>  
-<br/>
 <br/>
 <b>Selected Applied works:</b>
 <br/>
