@@ -50,8 +50,7 @@ layout: default
 </p>
 <p>
 &#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
-  <br/> &#160; Stanford University, 2013.
-  <br/> &#160; Advisor: Iain M. Johnstone. Committee: Diaconis P, Donoho DL.
+  <br/> &#160; Advisor: Iain M. Johnstone. Committee: Diaconis P, Donoho DL; Stanford University, 2013.
 </p>  
 <b>Selected Applied works:</b>
 <br/>
