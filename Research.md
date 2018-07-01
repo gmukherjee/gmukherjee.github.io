@@ -7,8 +7,8 @@ layout: default
 <br/>
 <p> 
   &#8226; Mukherjee G and Johnstone IM. <a href='http://www-bcf.usc.edu/~gourab/l0-sparsity.pdf'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> 
-  <br/> &emsp Annals of Statistics, Vol 43, No 3 (2015), 937-961.
-  <br/> &emsp Link to: Supplementray Materials, &emsp R-code, &emsp Journal Page.  
+  <br/> &#160 Annals of Statistics, Vol 43, No 3 (2015), 937-961.
+  <br/> &#160 Link to: Supplementray Materials, &emsp R-code, &emsp Journal Page.  
 </p>
 <br/>
 <br/>
