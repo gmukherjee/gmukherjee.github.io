@@ -29,15 +29,18 @@ layout: default
   <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; Journal Page.  
   </p>
 <br/>
+<p>
+&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
+<br/> Under review Annals of Statistics
+<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; 
+</p> 
+<p>  
+&#8226; T Banerjee, Mukherjee G and Sun W. <a href=' '> <em>Adaptive Sparse Estimation with Side Information.</em></a>
+<br/> Under review JASA 
+<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: ASUS, &#160;
+<p>
 <br/>
 &#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a>
-<br/>
-<br/>
-&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
-<br/>
-<br/>
-&#8226; T Banerjee, Mukherjee G and Sun W. <a href=' '> <em>Adaptive Sparse Estimation with Side Information.</em></a>
-<br/>
 <br/>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
 <br/>
