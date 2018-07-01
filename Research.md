@@ -19,7 +19,7 @@ layout: default
 <p>
 &#8226; Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a>
   <br/> &#160; Journal of the Royal Statistical Society: Series B, 79.5 (2017): 1527-1546.
-<!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; <a href='https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12226'>Journal Page</a>. 
+<!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; <a href='https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12226'>Journal Page</a>. -->
  </p>
 <p>
 &#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> 
