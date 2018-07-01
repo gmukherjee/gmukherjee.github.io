@@ -7,18 +7,27 @@ layout: default
 <br/>
 <p> 
   &#8226; Mukherjee G and Johnstone IM. <a href='http://www-bcf.usc.edu/~gourab/l0-sparsity.pdf'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> 
-  <br/> &#160 Annals of Statistics, Vol 43, No 3 (2015), 937-961.
-  <br/> &#160 Link to: Supplementray Materials, &#160 R-code, &#160 Journal Page.  
+  <br/> &#160; Annals of Statistics, Vol 43, No 3 (2015), 937-961.
+  <br/> &#160; Link to: Supplementray Materials, &#160; R-code, &#160; Journal Page.  
 </p>
 <br/>
+<p> 
+&#8226; Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a>
+  <br/> &#160; Annals of Statistics, Vol 46, No 4 (2018), 1693-1720.
+  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; Journal Page.  
+  </p>
 <br/>
-&#8226; Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics (forthcoming)
+<p>
+&#8226; Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a>
+  <br/> &#160; Journal of the Royal Statistical Society: Series B, 79.5 (2017): 1527-1546.
+  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; Journal Page.  
+ </p>
 <br/>
-<br/>
-&#8226; Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> JRSS B (forthcoming)
-<br/>
-<br/>
-&#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> Journal of Multivariate Analysis, 2017.
+<p>
+&#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> 
+  <br/> &#160; Journal of Multivariate Analysis, Vol 161, Sept 2017, Pages 191-212.
+  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; Journal Page.  
+  </p>
 <br/>
 <br/>
 &#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a>
@@ -33,7 +42,11 @@ layout: default
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
 <br/>
 <br/>
-&#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>, 2013. 
+<p>
+&#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
+  <br/> &#160; Stanford University, 2013.
+  <br/> &#160; Advisor: Iain M. Johnstone. Committee: Diaconis P, Donoho DL.
+</p>  
 <br/>
 <br/>
 <b>Selected Applied works:</b>
