@@ -30,21 +30,24 @@ layout: default
   </p>
 <p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
-<br/> &#160; Under review in the Annals of Statistics
+<br/> &#160; submitted to the Annals of Statistics
 <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; 
 </p> 
 <p>  
 &#8226; T Banerjee, Mukherjee G and Sun W. <a href=' '> <em>Adaptive Sparse Estimation with Side Information.</em></a>
-<br/> &#160; Under review in JASA 
+<br/> &#160;  submitted to JASA
 <br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
 <p>
-<br/>
+<p>
 &#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a>
-<br/>
-<br/>
+<br/> &#160; Under revision 
+<br/> &#160; Link to: R-code.
+<p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
-<br/>
+<br/> &#160; Under revision 
+<br/> &#160; Link to: R-code.  
+</p>
 <br/>
 <p>
 &#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
