@@ -55,12 +55,18 @@ layout: default
 <br/>
 <b>Selected Applied works:</b>
 <br/>
-<br/>
-&#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. Cell Reports, July 2014, ISSN 2211-1247.
-<br/>
-<br/>
-&#8226; <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>Innate immune response to homologous rotavirus infection in the small intestinal villous epithelium at single-cell resolution</em></a>. Proceedings of the National Academy of Sciences, 109.50 (2012): 20667-20672.<br/>
-<br/>
-&#8226; <a href='http://www.cell.com/cell-reports/pdf/S2211-1247(17)30935-X.pdf'><em>Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells</em></a>. Cell Reports, July 2017, ISSN 2211-1247.
-<br/>
-<br/>
+<p>
+&#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. 
+<br/> &#160; Cell Reports, July 2014, ISSN 2211-1247.  
+<br/> &#160; With Ann Arvin's VZV lab at Stanford Medical School.  
+ </p>
+<p>
+&#8226; <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>Innate immune response to homologous rotavirus infection in the small intestinal villous epithelium at single-cell resolution</em></a>. 
+<br/> &#160; Proceedings of the National Academy of Sciences, 109.50 (2012): 20667-20672.
+<br/> &#160; With Harry Greenberg's Rotavirus lab at VA Hostipal and Stanford Medical School.
+  </p>
+<p>
+&#8226; <a href='http://www.cell.com/cell-reports/pdf/S2211-1247(17)30935-X.pdf'><em>Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells</em></a>. 
+<br/> &#160;Cell Reports, July 2017, ISSN 2211-1247.
+<br/> &#160; With Nadia Roan's HIV lab at UCSF.   
+</p>
