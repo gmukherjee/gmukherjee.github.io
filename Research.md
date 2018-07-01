@@ -5,9 +5,11 @@ layout: default
 <b>Selected Theory and Method Works:</b>
 <br/>
 <br/>
-&#8226; Mukherjee G and Johnstone IM. <a href='http://www-bcf.usc.edu/~gourab/l0-sparsity.pdf'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> 
-<br/> &emsp Annals of Statistics, Vol 43, No 3 (2015), 937-961.
-<br/> &emsp Link to: Supplementray Materials, &emsp R-code, &emsp Journal Page.  
+<p> 
+  &#8226; Mukherjee G and Johnstone IM. <a href='http://www-bcf.usc.edu/~gourab/l0-sparsity.pdf'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> 
+  <br/> &emsp Annals of Statistics, Vol 43, No 3 (2015), 937-961.
+  <br/> &emsp Link to: Supplementray Materials, &emsp R-code, &emsp Journal Page.  
+</p>
 <br/>
 <br/>
 &#8226; Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics (forthcoming)
