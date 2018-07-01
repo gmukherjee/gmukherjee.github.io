@@ -4,7 +4,6 @@ layout: default
 
 <b>Selected Theory and Method Works:</b>
 <br/>
-<br/>
 <p> 
   &#8226; Mukherjee G and Johnstone IM. <a href='http://www-bcf.usc.edu/~gourab/l0-sparsity.pdf'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> 
   <br/> &#160; Annals of Statistics, Vol 43, No 3 (2015), 937-961.
@@ -53,7 +52,6 @@ layout: default
   <br/> &#160; Stanford University, 2013.
   <br/> &#160; Advisor: Iain M. Johnstone. Committee: Diaconis P, Donoho DL.
 </p>  
-<br/>
 <b>Selected Applied works:</b>
 <br/>
 <p>
