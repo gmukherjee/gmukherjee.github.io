@@ -26,7 +26,7 @@ layout: default
   <br/> &#160; Journal of Multivariate Analysis, Vol 161, Sept 2017, Pages 191-212.
 <!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; 
   <a href='https://doi.org/10.1016/j.jmva.2017.08.001'>Journal Page</a>.
-  </p>
+  </p>-->
 <p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
 <br/> &#160; submitted to the Annals of Statistics
