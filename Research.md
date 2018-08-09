@@ -33,7 +33,7 @@ layout: default
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160;--> 
 </p> 
 <p>  
-&#8226; T Banerjee, Mukherjee G and Sun W. <a href=' '> <em>Adaptive Sparse Estimation with Side Information.</em></a>
+&#8226; T Banerjee, Mukherjee G and Sun W. <a href='http://www-bcf.usc.edu/~gourab/asus.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
 <br/> &#160;  R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
