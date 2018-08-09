@@ -39,6 +39,14 @@ layout: default
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
+<p>  
+&#8226; T Banerjee, Mukherjee G and Paul D. <a href=''> <em>Improved Shrinkage Prediction under a Spiked Covariance
+Structure.</em></a>
+<!--<br/> &#160;  R-Package: 
+  <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
+<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
+  <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
+<p>
 <p>
 &#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a>
 <!--<br/> &#160; Under revision 
