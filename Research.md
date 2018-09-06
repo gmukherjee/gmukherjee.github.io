@@ -7,6 +7,8 @@ layout: default
 <p> 
   &#8226; Mukherjee G and Johnstone IM. <a href='http://www-bcf.usc.edu/~gourab/l0-sparsity.pdf'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> 
   <br/> &#160; Annals of Statistics, Vol 43, No 3 (2015), 937-961.
+  <br/> &#160;  R-Code: 
+  <a href='http://www-bcf.usc.edu/~gourab/code-l0-sparsity/'><em>to download click here</em></a>;
   <!--<br/> &#160; Link to: Supplementray Materials, &#160; R-code, &#160;   
   <a href='https://projecteuclid.org/euclid.aos/1431695634'>Journal Page</a>. -->
 </p> 
@@ -19,11 +21,15 @@ layout: default
 <p>
 &#8226; Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a>
   <br/> &#160; Journal of the Royal Statistical Society: Series B, 79.5 (2017): 1527-1546.
+  <br/> &#160;  R-Code: 
+  <a href='https://www.dropbox.com/sh/udjapvtjonod1xy/AABkaqWzXkYpQ-oVAp1Pb6X9a?dl=0'><em>to download click here</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;
 <!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; <a href='https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12226'>Journal Page</a>. -->
  </p>
 <p>
 &#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> 
   <br/> &#160; Journal of Multivariate Analysis, Vol 161, Sept 2017, Pages 191-212.
+  <br/> &#160;  R-Code: 
+  <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;
 <!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; 
   <a href='https://doi.org/10.1016/j.jmva.2017.08.001'>Journal Page</a>.
   </p>-->
