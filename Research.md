@@ -83,3 +83,7 @@ Structure.</em></a>
 <br/> &#160;Cell Reports, July 2017, ISSN 2211-1247.
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
+<p>
+&#8226; <a href='https://gmukherjee.github.io/Software/2018-06-15-slide/'><em>R-package: SLIDE</em></a>. 
+<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
+</p>
