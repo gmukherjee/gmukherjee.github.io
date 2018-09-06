@@ -42,9 +42,9 @@ layout: default
 <p>  
 &#8226; T Banerjee, Mukherjee G and Paul D. <a href='http://www-bcf.usc.edu/~gourab/spiked.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a>
-<!--<br/> &#160;  R-Package: 
-  <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
-<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
+<br/> &#160;  R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
+
+<!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
 <p>
