@@ -84,8 +84,7 @@ Structure.</em></a>
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 <p>
-&#8226; <a href=''><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a>. 
-<br/> &#160; under revision JASA.
+&#8226; <a href=''><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> under revision in JASA.
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 
