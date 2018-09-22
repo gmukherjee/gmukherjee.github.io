@@ -35,7 +35,7 @@ layout: default
   </p>-->
 <p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
-<br/> &#160; submitted to the Annals of Statistics
+<br/> &#160; under revision, Annals of Statistics
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160;--> 
 </p> 
 <p>  
@@ -76,7 +76,7 @@ Structure.</em></a>
 <p>
 &#8226; <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>Innate immune response to homologous rotavirus infection in the small intestinal villous epithelium at single-cell resolution</em></a>. 
 <br/> &#160; Proceedings of the National Academy of Sciences, 109.50 (2012): 20667-20672.
-  (with Greenberg lab at Palo Alto VA Hostipal and Stanford Medical School.)
+  (with Greenberg lab at Palo Alto VA health care and Stanford Medical School.)
 <!--<!--<br/> &#160; With Harry Greenberg's Rotavirus lab at VA Hostipal and Stanford Medical School.-->
   </p>
 <p>
