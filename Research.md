@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-<b>Selected Theory and Method Works:</b>
-<br/>
 <p> 
   &#8226; Mukherjee G and Johnstone IM. <a href='http://www-bcf.usc.edu/~gourab/l0-sparsity.pdf'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> 
   <br/> &#160; Annals of Statistics, Vol 43, No 3 (2015), 937-961.
@@ -63,14 +60,16 @@ Structure.</em></a>
 <br/> &#160; Link to: R-code.  -->
 </p>
 <p>
-&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W <em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em> 
+&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em> 
 </p>
 <p>
 &#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
   <br/> &#160; Advisor: Iain M. Johnstone. Committee: Diaconis P, Donoho DL; Stanford University, 2013.
 </p>  
-<b>Selected Applied works:</b>
-<br/>
+<p>
+&#8226; Mukherjee G. <em> Book review of Robust Methods for Data Reduction by A. Farcomeni and L.
+Greco. </em> Journal of the American Statistical Association, 917, Vol 111, 2016.
+</p> 
 <p>
 &#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. 
 <br/> &#160; Cell Reports, July 2014, ISSN 2211-1247.  (with Arvin lab at Stanford Medical School)
