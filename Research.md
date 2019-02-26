@@ -35,6 +35,9 @@ layout: default
 <br/> &#160; under revision, Annals of Statistics
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160;--> 
 </p> 
+<p>
+&#8226; Mukherjee G and Johnstone IM. <a href=' '><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
+</p> 
 <p>  
 &#8226; T Banerjee, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
 <br/> &#160;  R-Package: 
@@ -61,6 +64,11 @@ Structure.</em></a>
 </p>
 <p>
 &#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em> 
+</p>
+<p>
+Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screen-
+ing for large-scale two-sample inference by Cai, Sun and Wang. Journal of the Royal
+Statistical Society: Series B (Statistical Methodology) 2019.</em> 
 </p>
 <p>
 &#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
