@@ -46,9 +46,8 @@ layout: default
 &#8226; T Banerjee, Mukherjee G and Paul D. <a href='http://www-bcf.usc.edu/~gourab/spiked.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a>
 <br/> &#160;  R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
-<p>
-&#8226; Gangopadhyay U and Mukherjee G. <a href=' '><em>Asymptotic Specification of Clustered Least Favorable Discrete Priors for Minimax Sparse Predictive Density Estimation.</em></a>
 </p> 
+
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
@@ -66,10 +65,10 @@ Structure.</em></a>
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 <p>
-&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em> 
-</p>
+&#8226; Gangopadhyay U and Mukherjee G. <a href=' '><em>Asymptotic Specification of Clustered Least Favorable Discrete Priors for Minimax Sparse Predictive Density Estimation.</em></a>
+</p> 
 <p>
-Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screen-
+&#8226; Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screen-
 ing for large-scale two-sample inference by Cai, Sun and Wang. Journal of the Royal
 Statistical Society: Series B (Statistical Methodology) 2019.</em> 
 </p>
@@ -77,10 +76,6 @@ Statistical Society: Series B (Statistical Methodology) 2019.</em>
 &#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
   <br/> &#160; Advisor: Iain M. Johnstone. Committee: Diaconis P, Donoho DL; Stanford University, 2013.
 </p>  
-<p>
-&#8226; Mukherjee G. <em> Book review of Robust Methods for Data Reduction by A. Farcomeni and L.
-Greco. </em> Journal of the American Statistical Association, 917, Vol 111, 2016.
-</p> 
 <p>
 &#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. 
 <br/> &#160; Cell Reports, July 2014, ISSN 2211-1247.  (with Arvin lab at Stanford Medical School)
@@ -97,9 +92,11 @@ Greco. </em> Journal of the American Statistical Association, 917, Vol 111, 2016
 <br/> &#160;Cell Reports, July 2017, ISSN 2211-1247. (with Roan lab at UCSF)
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
-
-
 <p>
-&#8226; <a href='https://gmukherjee.github.io/Software/2018-06-15-slide/'><em>R-package: SLIDE</em></a>. 
-<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
+&#8226; Mukherjee G. <em> Book review of Robust Methods for Data Reduction by A. Farcomeni and L.
+Greco. </em> Journal of the American Statistical Association, 917, Vol 111, 2016.
 </p>
+<p>
+&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em> 
+</p>
+
