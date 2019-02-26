@@ -35,9 +35,6 @@ layout: default
 <br/> &#160; under revision, Annals of Statistics
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160;--> 
 </p> 
-<p>
-&#8226; Mukherjee G and Johnstone IM. <a href=' '><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
-</p> 
 <p>  
 &#8226; T Banerjee, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
 <br/> &#160;  R-Package: 
@@ -49,7 +46,9 @@ layout: default
 &#8226; T Banerjee, Mukherjee G and Paul D. <a href='http://www-bcf.usc.edu/~gourab/spiked.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a>
 <br/> &#160;  R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
-
+<p>
+&#8226; Gangopadhyay U and Mukherjee G. <a href=' '><em>Asymptotic Specification of Clustered Least Favorable Discrete Priors for Minimax Sparse Predictive Density Estimation.</em></a>
+</p> 
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
@@ -61,6 +60,10 @@ Structure.</em></a>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
 <!--<br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.  -->
+</p>
+<p>
+&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href=''><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> (under revision in JASA.)
+<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 <p>
 &#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em> 
@@ -94,10 +97,7 @@ Greco. </em> Journal of the American Statistical Association, 917, Vol 111, 2016
 <br/> &#160;Cell Reports, July 2017, ISSN 2211-1247. (with Roan lab at UCSF)
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
-<p>
-&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href=''><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> (under revision in JASA.)
-<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
-</p>
+
 
 <p>
 &#8226; <a href='https://gmukherjee.github.io/Software/2018-06-15-slide/'><em>R-package: SLIDE</em></a>. 
