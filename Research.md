@@ -65,7 +65,7 @@ Structure.</em></a>
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 <p>
-&#8226; Gangopadhyay U and Mukherjee G. <a href=' '><em>Asymptotic Specification of Clustered Least Favorable Discrete Priors for Minimax Sparse Predictive Density Estimation.</em></a>
+&#8226; Gangopadhyay U and Mukherjee G. <em>Asymptotic Specification of Clustered Least Favorable Discrete Priors for Minimax Sparse Predictive Density Estimation.</em>
 </p> 
 <p>
 &#8226; Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screen-
