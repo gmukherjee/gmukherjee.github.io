@@ -97,6 +97,6 @@ Statistical Society: Series B (Statistical Methodology) 2019.</em>
 Greco. </em> Journal of the American Statistical Association, 917, Vol 111, 2016.
 </p>
 <p>
-&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em> 
+&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
 </p>
 
