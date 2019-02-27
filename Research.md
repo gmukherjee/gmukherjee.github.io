@@ -65,11 +65,10 @@ Structure.</em></a>
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 <p>
-&#8226; Gangopadhyay U and Mukherjee G. <em>Asymptotic Specification of Clustered Least Favorable Discrete Priors for Minimax Sparse Predictive Density Estimation.</em>
+&#8226; Gangopadhyay U and Mukherjee G. <em>Sparse Minimaxity Specification of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em>
 </p> 
 <p>
-&#8226; Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screen-
-ing for large-scale two-sample inference by Cai, Sun and Wang. Journal of the Royal
+&#8226; Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang. Journal of the Royal
 Statistical Society: Series B (Statistical Methodology) 2019.</em> 
 </p>
 <p>
