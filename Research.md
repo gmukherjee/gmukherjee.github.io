@@ -65,7 +65,7 @@ Structure.</em></a>
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 <p>
-&#8226; Gangopadhyay U and Mukherjee G. <em>Sparse Minimaxity Specification of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em>
+&#8226; Gangopadhyay U and Mukherjee G. <a href="https://www.dropbox.com/s/uncfmzjegjlhf50/clustered-prior.pdf?dl=0"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a>
 </p> 
 <p>
 &#8226; Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang. Journal of the Royal
