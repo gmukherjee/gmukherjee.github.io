@@ -39,6 +39,7 @@ layout: default
 &#8226; T Banerjee, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
 <br/> &#160;  R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
+  (under review Journal of American Statistical Association.)
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
@@ -56,13 +57,13 @@ Structure.</em></a>
 <!--<br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.-->
 <p>
+<p>
+&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href=''><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> (forthcoming Journal of American Statistical Association.)
+<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
+</p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
 <!--<br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.  -->
-</p>
-<p>
-&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href=''><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> (under revision in JASA.)
-<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 <p>
 &#8226; Gangopadhyay U and Mukherjee G. <a href="https://www.dropbox.com/s/uncfmzjegjlhf50/clustered-prior.pdf?dl=0"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a>
