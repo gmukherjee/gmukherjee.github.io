@@ -36,7 +36,7 @@ layout: default
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160;--> 
 </p> 
 <p>  
-&#8226; T Banerjee, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
+&#8226; Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
 <br/> &#160;  R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
   (under review Journal of American Statistical Association.)
@@ -44,7 +44,7 @@ layout: default
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
 <p>  
-&#8226; T Banerjee, Mukherjee G and Paul D. <a href='http://www-bcf.usc.edu/~gourab/spiked.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance
+&#8226; Banerjee T, Mukherjee G and Paul D. <a href='http://www-bcf.usc.edu/~gourab/spiked.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a>
 <br/> &#160;  R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
 </p> 
