@@ -58,7 +58,7 @@ Structure.</em></a>
 <br/> &#160; Link to: R-code.-->
 <p>
 <p>
-&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href=''><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> (forthcoming Journal of American Statistical Association.)
+&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://www.tandfonline.com/doi/ref/10.1080/01621459.2019.1611584'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> (Journal of American Statistical Association.)
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
@@ -97,6 +97,6 @@ Statistical Society: Series B (Statistical Methodology) 2019.</em>
 Greco. </em> Journal of the American Statistical Association, 917, Vol 111, 2016.
 </p>
 <p>
-&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
+&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
 </p>
 
