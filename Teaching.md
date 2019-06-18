@@ -8,7 +8,7 @@ layout: post
         Required Units: 4.0
         Students: 
 
-> All my class notes and lecture slides are available from their respective course-homes in <a href='http://blackboard.usc.edu'><i><font face="verdana" color="teal"><i>blackboard</i></font></i></a> -- USC's e-learning platform. Please look at the class syllabi and blackboard announcements for all other information regarding these classes. Also, if you feel the need to shoot an email to me regarding your class, please use the email address for that particular class (as told in class). I keep different emails for the different classes I teach and they are different from my USC or Marshall email.
+> My class notes and lecture slides can be accessed at <a href='http://blackboard.usc.edu'><i><font face="verdana" color="teal"><i>blackboard</i></font></i></a> -- USC's e-learning platform. Please look at the class syllabus and blackboard announcements for all other information. If you feel the need to email me regarding the class, please use the email address mentioned in the syllabus in blackboard. Please note that the email address for this class is different from my USC or Marshall email.
 
 * Regression & Generalized Linear Models for Business Applications 
 
