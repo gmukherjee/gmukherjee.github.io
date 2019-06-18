@@ -16,7 +16,15 @@ layout: post
 
         Course Number: Graduate School of Business Administration (GSBA) 604
         Required Units: 3.0
-        Level: Phd; Master's students with quantitative background and interest can also enroll;  
+        Level: Phd 
+        Master's students with quantitative background and interest can also enroll;
+        Contents: High-dimensional Methods, Predictive Modeling, Hierarchical Models
+        Applications: Marketing, Economics, Finance, Healthcare Analytics, Management Sciences
+        
+> _ Fall 2018 class materials can be accessed at: [Click Here](https://gmukherjee.github.io/gsba604/)_
+        
+                  
+        
 
 
 
