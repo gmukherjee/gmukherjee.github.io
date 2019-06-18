@@ -2,11 +2,9 @@
 layout: post
 ---
 
-* Applied Business Statistics 
-
-> Course Number: Business Administration (BUAD) 310g
-
-> Required Units: 4.0
+* Applied Business Statistics
+    Course Number: Business Administration (BUAD) 310g
+    Required Units: 4.0
 
 * Regression & Generalized Linear Models for Business Applications 
   Course Number: Graduate School of Business Administration (GSBA) 604
