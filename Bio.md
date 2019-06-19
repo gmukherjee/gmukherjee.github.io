@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Research Summary
+# Research Summary
 
 I am interested in developing new statistical theories and perspectives that enhance our understanding on the working principles of popular data mining hacks and algorithms. Nowadays, data analysts are increasingly using innovative techniques to address the fundamental estimation and prediction challenges associated with big-data problems. Theoretical analysis of  these methods is very important for disciplined development of algorithms in these new age problems. In this context, I study the methods used for predictive modelling and analyze how these prediction problems differ from traditional estimation frameworks and why algorithm specifically geared for prediction should be used for predictive analysis. Another interesting attribute here involves checking the statistical consistency of the decision rules in high dimensions as increasing number of parameters are used for modeling.  We often use the minimal worst-case  (minimax) risk as the benchmark  for comparing the prediction accuracy of these methods. These theoretical analysis has lead to the formulation of new Bayes and empirical Bayes methods with optimal frequentist properties in estimation and prediction problems.  
 
@@ -11,7 +11,8 @@ Here, I am mainly involved with two-sample inferences, data-driven segmentations
 
 These two dual trajectories usually bootstrap each other stimulating interesting new research questions in either domains. Below is an itemized list of the sub-topics of interest: 
 
-**Statistics Theory:** 
+** Statistics Theory: ** 
+
   Predictive Inference 
     Predictive Density Estimation
     Impact of Loss functions on optimality of predictors;
