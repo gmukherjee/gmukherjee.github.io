@@ -102,7 +102,7 @@ Greco. </em>
 <br/> &#160; Journal of the American Statistical Association, 917, Vol 111, 2016.
 </p>
 <p>
-&#8226; Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang. 
+&#8226; Banerjee T and Mukherjee G. <em> **Discussion of** <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
 <br/> &#160; Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.</em> 
 </p>
 
