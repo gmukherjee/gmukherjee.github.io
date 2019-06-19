@@ -39,7 +39,7 @@ layout: default
 &#8226; Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
 <br/> &#160;  R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
-  (under review Journal of American Statistical Association.)
+  Conditionally accepted in Journal of American Statistical Association.
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
