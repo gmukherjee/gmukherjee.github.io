@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+## Bio
+
+I graduated from Stanford University with a Statistics phd after defending [this thesis](http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf). I was advised by Professor [Iain Johnstone](http://statweb.stanford.edu/~imj/). My dissertation was on predictive density estimation and we found some new minimax decision theoretic phenomena in the prediction regime that contrasted with  sparse estimation results. During my phd, I also collaborated on single-cell virology applications with Professors Ann Arvin's and Harry Greenberg's labs in the Stanford Medical School and Palo Alto's Veterans Affairs Hospital. Upon graduation, I had the good fortune of working and learning general shrinkage principles and empirical Bayes ideas from Professor [Lawrence Brown](https://en.wikipedia.org/wiki/Lawrence_D._Brown). Compared to minimax shrinkage rules, these generic shrinkage methods are more tractable and scalable. They can be used to answer science and policy questions in experiments and instances that involve inferences and predictions based on big-data sets. Theoretical understanding of the effectiveness of traditional shrinkage algorithms is built on some of the most elegant and seminal works in statistical decisions theory. We established new results characterizing the efficacy of shrinkage in modern large-scale applications and big-data regimes. Building on these results, we are working towards a robust inferential framework for the disciplined development and analysis of shrinkage methods that take into account the increasing complexities of the data. Currently, in some applied collaborative works with my marketing colleagues that involve large-scale mixed-effects and non-linear hierarchical modeling, we are using some of these perspectives to find optimal ways of incorporating shrinkage in digital marketing problems.
 
 ## Research Summary
 
