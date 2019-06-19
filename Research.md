@@ -23,14 +23,6 @@ layout: default
 <!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; <a href='https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12226'>Journal Page</a>. -->
  </p>
 <p>
-&#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> 
-  <br/> &#160; Journal of Multivariate Analysis, Vol 161, Sept 2017, Pages 191-212.
-  <br/> &#160;  R-Code: 
-  <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;
-<!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; 
-  <a href='https://doi.org/10.1016/j.jmva.2017.08.001'>Journal Page</a>.
-  </p>-->
-<p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
 <br/> &#160; under revision, Annals of Statistics, 2019
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160;--> 
@@ -42,12 +34,26 @@ layout: default
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
+<p>
+&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://www.tandfonline.com/doi/ref/10.1080/01621459.2019.1611584'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> 
+ <br/> &#160; Journal of American Statistical Association, 2019.
+ <br/> &#160; Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>to download click here</em></a>;
+<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
+</p>
+<p>
+&#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> 
+  <br/> &#160; Journal of Multivariate Analysis, Vol 161, Sept 2017, Pages 191-212.
+  <br/> &#160;  R-Code: 
+  <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;
+<!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; 
+  <a href='https://doi.org/10.1016/j.jmva.2017.08.001'>Journal Page</a>.
+  -->
+</p>
 <p>  
 &#8226; Banerjee T, Mukherjee G and Paul D. <a href='http://www-bcf.usc.edu/~gourab/spiked.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a>
 <br/> &#160;  R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
 </p> 
-
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
@@ -56,12 +62,7 @@ Structure.</em></a>
 <!--<br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.-->
 <p>
-<p>
-&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://www.tandfonline.com/doi/ref/10.1080/01621459.2019.1611584'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> 
- <br/> &#160; Journal of American Statistical Association, 2019.
- <br/> &#160; Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>to download click here</em></a>;
-<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
-</p>
+
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
 <!--<br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.  -->
