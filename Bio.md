@@ -12,9 +12,8 @@ Here, I am mainly involved with two-sample inferences, data-driven segmentations
 These two dual trajectories usually bootstrap each other stimulating interesting new research questions in either domains. Below is an itemized list of the sub-topics of interest: 
 
 ** Statistics Theory: ** 
-
-  Predictive Inference 
-    Predictive Density Estimation
+  - Predictive Inference 
+  - Predictive Density Estimation
     Impact of Loss functions on optimality of predictors;
   Decision Theory 
     Empirical Bayes 
