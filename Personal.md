@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-![bench](/img/bencg-by-sea.jpg)
+![bench](/img/bench-by-sea.jpg)
