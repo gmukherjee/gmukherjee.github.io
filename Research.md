@@ -62,16 +62,15 @@ Structure.</em></a>
 <!--<br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.-->
 <p>
-
-&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
-<!--<br/> &#160; Under revision 
-<br/> &#160; Link to: R-code.  -->
-</p>
-<p>
 &#8226; Gangopadhyay U and Mukherjee G. <a href="https://www.dropbox.com/s/uncfmzjegjlhf50/clustered-prior.pdf?dl=0"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a>
 </p>
 <p>
 &#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
+</p>
+<p>
+&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
+<!--<br/> &#160; Under revision 
+<br/> &#160; Link to: R-code.  -->
 </p>
 <p>
 &#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
