@@ -101,7 +101,7 @@ Structure.</em></a>
 <br/> &#160; Journal of the American Statistical Association, 917, Vol 111, 2016.
 </p>
 <p>
-  &#8226; Banerjee T and Mukherjee G. <em>Discussion of</em><a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
+  &#8226; Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
 <br/> &#160; Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.
 </p>
 
