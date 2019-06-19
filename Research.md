@@ -97,12 +97,12 @@ Structure.</em></a>
 <!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
 </p>
 <p>
-&#8226; Mukherjee G. **Book review** of <a href='https://www.taylorfrancis.com/books/9780429167966'>Robust Methods for Data Reduction by A. Farcomeni and L.
+&#8226; Mukherjee G. _Book review_ of <a href='https://www.taylorfrancis.com/books/9780429167966'>Robust Methods for Data Reduction by A. Farcomeni and L.
   Greco.</a>
 <br/> &#160; Journal of the American Statistical Association, 917, Vol 111, 2016.
 </p>
 <p>
-&#8226; Banerjee T and Mukherjee G. **Discussion of** <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
+&#8226; Banerjee T and Mukherjee G. _Discussion of_ <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
 <br/> &#160; Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.
 </p>
 
