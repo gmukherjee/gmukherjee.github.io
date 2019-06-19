@@ -69,14 +69,14 @@ Structure.</em></a>
 </p>
 <p>
 &#8226; Gangopadhyay U and Mukherjee G. <a href="https://www.dropbox.com/s/uncfmzjegjlhf50/clustered-prior.pdf?dl=0"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a>
-</p> 
+</p>
 <p>
-&#8226; Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang. Journal of the Royal
-Statistical Society: Series B (Statistical Methodology) 2019.</em> 
+&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
 </p>
 <p>
 &#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
-  <br/> &#160; Advisor: Iain M. Johnstone. Committee: Diaconis P, Donoho DL; Stanford University, 2013.
+  <br/> &#160; Adviser: Johnstone IM. Committee: Diaconis P, Donoho DL; 
+  <br/> &#160; Stanford University, 2013.
 </p>  
 <p>
 &#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. 
@@ -98,9 +98,12 @@ Statistical Society: Series B (Statistical Methodology) 2019.</em>
 </p>
 <p>
 &#8226; Mukherjee G. <em> Book review of Robust Methods for Data Reduction by A. Farcomeni and L.
-Greco. </em> Journal of the American Statistical Association, 917, Vol 111, 2016.
+Greco. </em> 
+<br/> &#160; Journal of the American Statistical Association, 917, Vol 111, 2016.
 </p>
 <p>
-&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
+&#8226; Banerjee T and Mukherjee G. <em> Discussion of CARS: covariate assisted ranking and screening for large-scale two-sample inference by Cai, Sun and Wang. 
+<br/> &#160; Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.</em> 
 </p>
+
 
