@@ -11,16 +11,24 @@ Here, I am mainly involved with two-sample inferences, data-driven segmentations
 
 These two dual trajectories usually bootstrap each other stimulating interesting new research questions in either domains. Below is an itemized list of the sub-topics of interest: 
 
-**Statistics Theory:** 
+**Statistics Theory** 
   - Predictive Inference 
     - Predictive Density Estimation
-    - Impact of Loss functions on optimality of predictors;
-  - Decision Theory 
-    - Empirical Bayes 
-    - Minimax theory
-    - Sparse Estimation theory  
+    - Impact of Loss functions on optimality of predictors
+  - High-dimensional Decision Theory 
+    - Shrinkage and Empirical Bayes 
+    - Minimax optimality   
+    - Sparse Estimation and Penalized Regression methods  
 
-
+**Applications**
+  - Single Cell Virology
+    - Inference under heterogeneity; Clustering 
+    - Two sample Testing
+  - Marketing: Pricing of Digital products
+    - Mixed-effects models
+    - Bayesian Shrinkage in Hierarchical models; 
+  - Inventory Management 
+    - Quantile and Asymmetric losses  
 
 
 <!--
