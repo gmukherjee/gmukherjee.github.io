@@ -32,14 +32,13 @@ layout: default
   </p>-->
 <p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a>
-<br/> &#160; under revision, Annals of Statistics
+<br/> &#160; under revision, Annals of Statistics, 2019
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160;--> 
 </p> 
 <p>  
 &#8226; Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
-<br/> &#160;  R-Package: 
-  <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
-  Conditionally accepted in Journal of American Statistical Association.
+<br/> &#160;  Conditionally accepted in Journal of American Statistical Association, 2019;
+<br/> &#160;  R-Package: <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
 <p>
