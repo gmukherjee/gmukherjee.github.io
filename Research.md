@@ -50,7 +50,7 @@ layout: default
   -->
 </p>
 <p>  
-&#8226; Banerjee T, Mukherjee G and Paul D. <a href='http://www-bcf.usc.edu/~gourab/spiked.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance
+&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a>
 <br/> &#160;  R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
 </p> 
@@ -73,7 +73,7 @@ Structure.</em></a>
 <br/> &#160; Link to: R-code.  -->
 </p>
 <p>
-&#8226; Phd Thesis: <a href='http://www-bcf.usc.edu/~gourab/gourab-thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
+&#8226; Phd Thesis: <a href='https://www.dropbox.com/s/y9m1dn9k1ko6jd3/gourab-thesis-augmented.pdf?dl=0'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
   <br/> &#160; Adviser: Johnstone IM. Committee: Diaconis P, Donoho DL; 
   <br/> &#160; Stanford University, 2013.
 </p>  
