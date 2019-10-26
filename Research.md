@@ -29,7 +29,7 @@ layout: default
 </p> 
 <p>  
 &#8226; Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a>
-<br/> &#160;  Conditionally accepted in Journal of American Statistical Association, 2019;
+<br/> &#160;  Journal of American Statistical Association, 2019;
 <br/> &#160;  R-Package: <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
 <!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
   <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
@@ -59,6 +59,7 @@ Structure.</em></a>
 <p>
 <p>
 &#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a>
+<br/> &#160;  arXiv:1511.00028 [math.ST]
 <!--<br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.-->
 <p>
@@ -66,9 +67,12 @@ Structure.</em></a>
 </p>
 <p>
 &#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
+<br/> &#160; arXiv:1910.08997 [math.ST] 
+ <br/> &#160; R-code:  <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>NPEB</em></a>
 </p>
 <p>
 &#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
+<br/> &#160; arXiv:1212.0325 [math.ST] 
 <!--<br/> &#160; Under revision 
 <br/> &#160; Link to: R-code.  -->
 </p>
