@@ -110,7 +110,7 @@ Structure.</em></a>
 </p>
 
 <p>
-  &#8226; Banerjee T, Bhattacharya and Mukherjee G. <em>A nearest neighbor based nonparametric test for viral remodleing in heterogeneous single cells. </em> of <a href=''> </a>. 
+  &#8226; Banerjee T, Bhattacharya and Mukherjee G.<a href=''> <em>A nearest neighbor based nonparametric test for viral remodleing in heterogeneous single cells. </em> </a>. 
 <br/> &#160; R-package: TRUH.
 </p>
 
