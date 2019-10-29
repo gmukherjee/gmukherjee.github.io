@@ -35,40 +35,19 @@ arXiv:1910.08997 [math.ST] R-code:  <a href='https://gmukherjee.github.io/Softwa
 
 > _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a> arXiv:1212.0325 [math.ST]_
 
+> _&#8226; Banerjee T, Bhattacharya B and Mukherjee G.<a href=''> <em>A nearest neighbor based nonparametric test for viral remodeling in heterogeneous single cells. </em> </a>  R-package: TRUH._
+ 
+> _&#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. 
+Cell Reports, July 2014, ISSN 2211-1247;  With Arvin lab from Stanford Medical School._
+
+> _&#8226; <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>Innate immune response to homologous rotavirus infection in the small intestinal villous epithelium at single-cell resolution</em></a>. Proceedings of the National Academy of Sciences, 109.50 (2012): 20667-20672; With Greenberg lab from Palo Alto VA health care and Stanford Medical School._
+
+> _&#8226; <a href='http://www.cell.com/cell-reports/pdf/S2211-1247(17)30935-X.pdf'><em>Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells</em></a>. Cell Reports, July 2017, ISSN 2211-1247; With Roan lab at UCSF._
+ 
+> _&#8226; Mukherjee G. <em>Book review</em> of <a href='https://www.taylorfrancis.com/books/9780429167966'>Robust Methods for Data Reduction by A. Farcomeni and L. Greco.</a> Journal of the American Statistical Association, 917, Vol 111, 2016._
+
+>  _&#8226; Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
+Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019._  
 
 > _&#8226; Phd Thesis: <a href='https://www.dropbox.com/s/y9m1dn9k1ko6jd3/gourab-thesis-augmented.pdf?dl=0'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a> Adviser: Johnstone IM. Committee: Diaconis P, Donoho DL; Stanford University, 2013._
- 
-<p>
-&#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. 
-<br/> &#160; Cell Reports, July 2014, ISSN 2211-1247;  
-<br/> &#160;  With Arvin lab at Stanford Medical School.
-<!--<br/> &#160; with Ann Arvin's VZV lab at Stanford Medical School. --> 
- </p>
-<p>
-&#8226; <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>Innate immune response to homologous rotavirus infection in the small intestinal villous epithelium at single-cell resolution</em></a>. 
-<br/> &#160; Proceedings of the National Academy of Sciences, 109.50 (2012): 20667-20672;
-<br/> &#160;  With Greenberg lab at Palo Alto VA health care and Stanford Medical School.
-<!--<!--<br/> &#160; With Harry Greenberg's Rotavirus lab at VA Hostipal and Stanford Medical School.-->
-  </p>
-<p>
-&#8226; <a href='http://www.cell.com/cell-reports/pdf/S2211-1247(17)30935-X.pdf'><em>Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells</em></a>. 
-<br/> &#160; Cell Reports, July 2017, ISSN 2211-1247; 
-<br/> &#160;  With Roan lab at UCSF.
-<!--<!--<!--<br/> &#160; With Nadia Roan's HIV lab at UCSF. -->  
-</p>
-<p>
-  &#8226; Mukherjee G. <em>Book review</em> of <a href='https://www.taylorfrancis.com/books/9780429167966'>Robust Methods for Data Reduction by A. Farcomeni and L.
-  Greco.</a>
-<br/> &#160; Journal of the American Statistical Association, 917, Vol 111, 2016.
-</p>
-<p>
-  &#8226; Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
-<br/> &#160; Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.
-</p>
-
-<p>
-  &#8226; Banerjee T, Bhattacharya and Mukherjee G.<a href=''> <em>A nearest neighbor based nonparametric test for viral remodeling in heterogeneous single cells. </em> </a> 
-<br/> &#160; R-package: TRUH.
-</p>
-
 
