@@ -25,10 +25,10 @@ Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/
 > _&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a> R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>;_
 
-> _&#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a> arXiv:1511.00028[math.ST]_
+> _&#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a> arXiv:1511.00028 [math.ST]_
 
 
-> _&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a> arXiv:1905.09451[math.ST]_ 
+> _&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a> arXiv:1905.09451 [math.ST]_ 
 
 > _&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
 arXiv:1910.08997 [math.ST] R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>;_
