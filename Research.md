@@ -3,65 +3,41 @@ layout: default
 ---
 > _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, Vol 43, No 3 (2015), 937-961. R-Code: 
   <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>;_
-  <!--<br/> &#160; Link to: Supplementray Materials, &#160; R-code, &#160;   
-  <a href='https://projecteuclid.org/euclid.aos/1431695634'>Journal Page</a>. -->
 
-> _Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a>Annals of Statistics, Vol 46, No 4 (2018), 1693-1720._
+> _&#8226; Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a>Annals of Statistics, Vol 46, No 4 (2018), 1693-1720._
 
-> _Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> Journal of the Royal Statistical Society: Series B, 79.5 (2017): 1527-1546. R-Code: 
+> _&#8226; Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> Journal of the Royal Statistical Society: Series B, 79.5 (2017): 1527-1546. R-Code: 
   <a href='https://www.dropbox.com/sh/udjapvtjonod1xy/AABkaqWzXkYpQ-oVAp1Pb6X9a?dl=0'><em>click here</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;_
 
+> _&#8226; Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a> Journal of American Statistical Association, 2019. R-Package: <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>_
 
-> _Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> under revision, Annals of Statistics, 2019._
-<!--<br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160;--> 
-
-> _Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a> Journal of American Statistical Association, 2019. R-Package: <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>_
-
-> _Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://www.tandfonline.com/doi/ref/10.1080/01621459.2019.1611584'><em>A Large-scale Constrained Joint Modeling Approach ...</em></a> 
+> _&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://www.tandfonline.com/doi/ref/10.1080/01621459.2019.1611584'><em>A Large-scale Constrained Joint Modeling Approach ...</em></a> 
 Journal of American Statistical Association, 2019.
 Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>click here</em></a>;_
 
-<p>
-&#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> 
-  <br/> &#160; Journal of Multivariate Analysis, Vol 161, Sept 2017, Pages 191-212.
-  <br/> &#160;  R-Code: 
-  <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;
-<!--  <br/> &#160; Link to: Supplementary Materials, &#160; R-code, &#160; 
-  <a href='https://doi.org/10.1016/j.jmva.2017.08.001'>Journal Page</a>.
-  -->
-</p>
-<p>  
-&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance
-Structure.</em></a>
-<br/> &#160;  R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
-</p> 
-<!--<br/> &#160; Link to: Supplementary Materials, &#160; R-Package: 
-  <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>-->
-<p>
-<p>
-&#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a>
-<br/> &#160;  arXiv:1511.00028 [math.ST]
-<!--<br/> &#160; Under revision 
-<br/> &#160; Link to: R-code.-->
-<p>
-&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a>
-</p>
-<p>
-&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
-<br/> &#160; arXiv:1910.08997 [math.ST] 
- <br/> &#160; R-code:  <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>NPEB</em></a>
-</p>
-<p>
-&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a>
-<br/> &#160; arXiv:1212.0325 [math.ST] 
-<!--<br/> &#160; Under revision 
-<br/> &#160; Link to: R-code.  -->
-</p>
-<p>
-&#8226; Phd Thesis: <a href='https://www.dropbox.com/s/y9m1dn9k1ko6jd3/gourab-thesis-augmented.pdf?dl=0'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a>
-  <br/> &#160; Adviser: Johnstone IM. Committee: Diaconis P, Donoho DL; 
-  <br/> &#160; Stanford University, 2013.
-</p>  
+
+> _&#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> Journal of Multivariate Analysis, Vol 161, Sept 2017, Pages 191-212. R-Code: 
+  <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;_
+
+
+> _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> under revision, Annals of Statistics, 2019._
+
+> _&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance
+Structure.</em></a> R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>;_
+
+> _&#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a> arXiv:1511.00028[math.ST]_
+
+
+> _&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a> arXiv:1905.09451[math.ST]_ 
+
+> _&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='http://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305161'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
+arXiv:1910.08997 [math.ST] R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>;_
+
+> _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a> arXiv:1212.0325 [math.ST]_
+
+
+> _&#8226; Phd Thesis: <a href='https://www.dropbox.com/s/y9m1dn9k1ko6jd3/gourab-thesis-augmented.pdf?dl=0'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a> Adviser: Johnstone IM. Committee: Diaconis P, Donoho DL; Stanford University, 2013._
+ 
 <p>
 &#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. 
 <br/> &#160; Cell Reports, July 2014, ISSN 2211-1247;  
