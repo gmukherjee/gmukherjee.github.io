@@ -109,4 +109,9 @@ Structure.</em></a>
 <br/> &#160; Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.
 </p>
 
+<p>
+  &#8226; Banerjee T, Bhattacharya and Mukherjee G. <em>A nearest neighbor based nonparametric test for viral remodleing in heterogeneous single cells. </em> of <a href=''> </a>. 
+<br/> &#160; R-package: TRUH.
+</p>
+
 
