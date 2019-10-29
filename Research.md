@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-> _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> 
-  <br/> &#160; Annals of Statistics, Vol 43, No 3 (2015), 937-961.
-  <br/> &#160;  R-Code: 
-  <a href='http://www-bcf.usc.edu/~gourab/code-l0-sparsity/'><em>to download click here</em></a>;_
+> _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, Vol 43, No 3 (2015), 937-961. R-Code: 
+  <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>;_
   <!--<br/> &#160; Link to: Supplementray Materials, &#160; R-code, &#160;   
   <a href='https://projecteuclid.org/euclid.aos/1431695634'>Journal Page</a>. -->
 
