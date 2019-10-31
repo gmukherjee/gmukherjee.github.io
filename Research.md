@@ -4,7 +4,7 @@ layout: default
 > _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, Vol 43, No 3 (2015), 937-961. R-Code: 
   <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>;_
 
-> _&#8226; Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a>Annals of Statistics, Vol 46, No 4 (2018), 1693-1720._
+> _&#8226; Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics, Vol 46, No 4 (2018), 1693-1720._
 
 > _&#8226; Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> Journal of the Royal Statistical Society: Series B, 79.5 (2017): 1527-1546. R-Code: 
   <a href='https://www.dropbox.com/sh/udjapvtjonod1xy/AABkaqWzXkYpQ-oVAp1Pb6X9a?dl=0'><em>click here</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;_
