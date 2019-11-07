@@ -16,11 +16,13 @@ Cell Reports, July 2014, ISSN 2211-1247;  With Arvin lab from Stanford Medical S
 > _&#8226; Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> Journal of the Royal Statistical Society: Series B, 79.5 (2017): 1527-1546. R-Code: 
   <a href='https://www.dropbox.com/sh/udjapvtjonod1xy/AABkaqWzXkYpQ-oVAp1Pb6X9a?dl=0'><em>click here</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;_
   
+ 
+> _&#8226; Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics, Vol 46, No 4 (2018), 1693-1720._
+
 
 > _&#8226; Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> Journal of Multivariate Analysis, Vol 161, Sept 2017, Pages 191-212. R-Code: 
-  <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;_  
-
-> _&#8226; Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics, Vol 46, No 4 (2018), 1693-1720._
+  <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;_ 
+  
 
 > _&#8226; <a href='http://www.cell.com/cell-reports/pdf/S2211-1247(17)30935-X.pdf'><em>Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells</em></a>. Cell Reports, July 2017, ISSN 2211-1247; With Roan lab at UCSF._
 
