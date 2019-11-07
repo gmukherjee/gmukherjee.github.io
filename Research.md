@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<font color="lightgray")>_articles are ordered by timeline of completion_</font>
+<font color="lightgray">_articles are ordered by timeline of completion_</font>
 
 > _&#8226; <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>Innate immune response to homologous rotavirus infection in the small intestinal villous epithelium at single-cell resolution</em></a>. Proceedings of the National Academy of Sciences, 109.50 (2012): 20667-20672; With Greenberg lab from Palo Alto VA health care and Stanford Medical School._
 
