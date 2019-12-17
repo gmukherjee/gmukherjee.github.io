@@ -48,6 +48,8 @@ arXiv:1910.08997 [math.ST] R-code:  <a href='https://gmukherjee.github.io/Softwa
 
 > _&#8226; Banerjee T, Bhattacharya B and Mukherjee G.<a href=''> <em>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </em> </a>  R-package: TRUH._ 
 
+> _&#8226; Gang B, Mukherjee G and Sun W. <a href=''> <em>Non-parametric Shrinkage Estimation under Markovian Dependence.</em>
+
 >  _&#8226; Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
 Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019._ 
  
