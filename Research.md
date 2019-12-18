@@ -40,7 +40,6 @@ Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/
 > _&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a> R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>;_
 
-
 > _&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>Sparse Minimax Optimality of Bayes Predictive Density Estimates from Clustered Discrete Priors.</em></a> arXiv:1905.09451 [math.ST]_ 
 
 > _&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1910.08997.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> 
@@ -48,7 +47,7 @@ arXiv:1910.08997 [math.ST] R-code:  <a href='https://gmukherjee.github.io/Softwa
 
 > _&#8226; Banerjee T, Bhattacharya B and Mukherjee G.<a href=''> <em>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </em> </a>  R-package: TRUH._ 
 
-> _&#8226; Gang B, Mukherjee G and Sun W. <a href=''> <em>Non-parametric Shrinkage Estimation under Markovian Dependence</em>._
+> _&#8226; Gang B, Mukherjee G and Sun W. <a href=''> <em>Non-parametric Shrinkage Estimation under Markovian Dependence</em></a>._
 
 >  _&#8226; Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. 
 Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019._ 
