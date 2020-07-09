@@ -38,7 +38,7 @@ _&#8226; <a href='https://elifesciences.org/articles/55487'><em>HIV efficiently 
 
 _&#8226; <a href='http://www.cell.com/cell-reports/pdf/S2211-1247(17)30935-X.pdf'><em>Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells</em></a>. Cell Reports, July 2017, ISSN 2211-1247; With Roan lab at UCSF._
 
-_&#8226; Sen N, Mukherjee G and Arvin AM. <a href='https://pubmed.ncbi.nlm.nih.gov/26213183/'><em>Single Cell Mass Cytometry Reveals Remodeling of Human T Cell Phenotypes by Varicella Zoster Virus</em></a>. Methods, Volume 90, November 2015.
+_&#8226; Sen N, Mukherjee G and Arvin AM. <a href='https://pubmed.ncbi.nlm.nih.gov/26213183/'><em>Single Cell Mass Cytometry Reveals Remodeling of Human T Cell Phenotypes by Varicella Zoster Virus</em></a>. Methods, Volume 90, November 2015._
 
 _&#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. Cell Reports, July 2014, ISSN 2211-1247;  With Arvin lab from Stanford Medical School._
 
