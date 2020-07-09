@@ -2,12 +2,11 @@
 layout: default
 ---
 
-<font color="lightgray">Articles are roughly ordered here by timeline of completion/submission of the first draft of the projects. </font>
 
-> _&#8226; <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>Innate immune response to homologous rotavirus infection in the small intestinal villous epithelium at single-cell resolution</em></a>. Proceedings of the National Academy of Sciences, 109.50 (2012): 20667-20672; With Greenberg lab from Palo Alto VA health care and Stanford Medical School._
 
-> _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, Vol 43, No 3 (2015), 937-961. R-Code: 
-  <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>;_
+ _&#8226; <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>Innate immune response to homologous rotavirus infection in the small intestinal villous epithelium at single-cell resolution</em></a>. Proceedings of the National Academy of Sciences, 109.50 (2012): 20667-20672; With Greenberg lab from Palo Alto VA health care and Stanford Medical School._
+
+ _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, Vol 43, No 3 (2015), 937-961. R-Code: <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>;_
 
 > _&#8226; <a href='http://www.sciencedirect.com/science/article/pii/S2211124714004938'><em>Single Cell Analysis of the Remodeling of Human Tonsil T Cells by Varicella-Zoster Virus</em></a>. 
 Cell Reports, July 2014, ISSN 2211-1247;  With Arvin lab from Stanford Medical School._
