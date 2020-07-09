@@ -19,7 +19,7 @@ To Freemium Mobile Games.</em></a> Journal of American Statistical Association, 
 
 _&#8226; Banerjee T, Bhattacharya B and Mukherjee G.<a href='https://arxiv.org/pdf/2003.02937.pdf'> <em>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </em></a> Annals of Applied Statistics, 2020; R-package: TRUH._
 
-_&#8226; Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science._
+_&#8226; Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science, 2020._
 
 _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> revision submitted to Annals of Statistics, 2019._
 
