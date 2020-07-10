@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-![bench](/img/collage.jpg)
+![sc](/img/collage.JPG)
