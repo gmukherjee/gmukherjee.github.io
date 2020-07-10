@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-![bench](/img/bench-by-sea.jpg)
+![bench](/img/collage.jpg)
