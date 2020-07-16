@@ -19,7 +19,8 @@ I graduated from Stanford University with a Statistics phd after defending [this
     - Two sample Testing
   - Pricing Strategies and Digital Marketing
     - Mixed-effects models and joint modeling
-    - Bayesian Shrinkage in Hierarchical models; 
+    - Bayesian Shrinkage in Hierarchical models
+    - Pricing of (a) Durable products (b) Digital goods.  
   - Inventory Management 
     - Quantile and Asymmetric losses  
 
