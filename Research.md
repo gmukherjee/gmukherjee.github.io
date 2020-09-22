@@ -28,7 +28,7 @@ _&#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.o
 _&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance
 Structure.</em></a> R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>;_
 
-_&#8226; George E, Mukherjee G and Yano K. <a href=""><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> _ 
+_&#8226; George E, Mukherjee G and Yano K. <a href=""><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a>_ 
 
 _&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> arXiv:1905.09451 [math.ST]_ 
 
