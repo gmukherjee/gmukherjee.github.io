@@ -30,7 +30,7 @@ Structure.</em></a> R-Package: <a href='https://github.com/trambakbanerjee/casp#
 
 _&#8226; George E, Mukherjee G and Yano K. <a href=""><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a>_ 
 
-_&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> arXiv:1905.09451 [math.ST]_ 
+_&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021._ 
 
 _&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1910.08997.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> Journal of Machine Learning Research, 2020. R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>;_
 
