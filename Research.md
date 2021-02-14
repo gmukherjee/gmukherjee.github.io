@@ -12,7 +12,7 @@ _&#8226; <a href='https://elifesciences.org/articles/55487'><em>HIV efficiently 
 
 _&#8226; Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a> submitted;_
 
-_&#8226; Gangopadhyay U and Mukherjee G. <a href="https://arxiv.org/pdf/1905.09451.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021._ 
+_&#8226; Gangopadhyay U and Mukherjee G. <a href="https://www.dropbox.com/s/8qb7y4sizf3qcwi/main-ejs-revision.pdf?dl=0"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021._ 
 
 _&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1910.08997.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> Journal of Machine Learning Research, 2020. R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>;_
 
@@ -20,7 +20,7 @@ _&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://arxiv.org/pd
 _&#8226; Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> submitted;_
 
 
-_&#8226; George E, Mukherjee G and Yano K. <a href=""><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> under review Bayesian Analysis;_ 
+_&#8226; George E, Mukherjee G and Yano K. <a href="https://www.dropbox.com/s/ng7u9hn2tg4w7bp/alpha_div.pdf?dl=0"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> under review Bayesian Analysis;_ 
 
 _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, Vol 43, No 3 (2015), 937-961. R-Code: <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>;_
 
