@@ -36,14 +36,13 @@ _&#8226; Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.
 
 _&#8226; Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science, 2020._
 
-_&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> revision submitted to Annals of Statistics, 2019._
+_&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2021 (forthcoming)._
 
 _&#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a> arXiv:1511.00028 [math.ST]_
 
-_&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance
-Structure.</em></a> R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>;_
+_&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance Structure.</em></a> R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>;_
 
-
+_&#8226; Luo J, Mukherjee G and Sun W. <em> Improved Nonparametric Empirical Bayes Estimation By Transfer Learning<em> 2021. 
 
 _&#8226; <a href='http://www.cell.com/cell-reports/pdf/S2211-1247(17)30935-X.pdf'><em>Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells</em></a>. Cell Reports, July 2017, ISSN 2211-1247; With Roan lab at UCSF._
 
