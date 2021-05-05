@@ -2,6 +2,9 @@
 layout: default
 ---
 
+_&#8226; Luo J, Mukherjee G and Sun W.<a href=' '> <em>Improved Nonparametric Empirical Bayes Estimation By Transfer Learning</em></a> Submitted._
+
+
 _&#8226; Banerjee T, Bhattacharya B and Mukherjee G.<a href='https://arxiv.org/pdf/2003.02937.pdf'> <em>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </em></a> Annals of Applied Statistics, 2020; R-package: TRUH._
 
 _&#8226; Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://www.tandfonline.com/doi/ref/10.1080/01621459.2019.1611584'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> Journal of American Statistical Association, 2019. Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>click here</em></a>;_
