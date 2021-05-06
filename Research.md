@@ -45,7 +45,6 @@ _&#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.o
 
 _&#8226; Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance Structure.</em></a> R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>;_
 
-_&#8226; Luo J, Mukherjee G and Sun W. <a href=' '><em> Improved Nonparametric Empirical Bayes Estimation By Transfer Learning<em></a> 2021._ 
 
 _&#8226; <a href='http://www.cell.com/cell-reports/pdf/S2211-1247(17)30935-X.pdf'><em>Mass Cytometric Analysis of HIV Entry, Replication, and Remodeling in Tissue CD4+ T Cells</em></a>. Cell Reports, July 2017, ISSN 2211-1247; With Roan lab at UCSF._
 
