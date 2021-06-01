@@ -60,7 +60,6 @@ layout: default
 
 ### Shrinkage Theory for Integrative Estimation
 
-
 1) Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a> Journal of American Statistical Association, 2020. R-Package: <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
 
 2) Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.
@@ -79,11 +78,9 @@ to Annals of Statistics.
 3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a>
 
 
+### Miscelleneous
 
 
-
-
- 
 _&#8226; Mukherjee G. <em>Book review</em> of <a href='https://www.taylorfrancis.com/books/9780429167966'>Robust Methods for Data Reduction by A. Farcomeni and L. Greco.</a> Journal of the American Statistical Association, 917, Vol 111, 2016._
 
 _&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/arXiv:1212.0325.pdf'><em>On the within-family Kullback-Leibler risk in Gaussian Predictive models.</em></a> arXiv:1212.0325 [math.ST]_
