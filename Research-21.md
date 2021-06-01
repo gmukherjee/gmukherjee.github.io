@@ -4,6 +4,17 @@ layout: default
 
 ## High-dimensional Predictive Inference
 
+1) Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, Vol 43, No 3 (2015), 937-961. R-Code: <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>;_
+
+
+2) Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2021 (forthcoming)._
+
+3) Gangopadhyay U and Mukherjee G. <a href="https://www.dropbox.com/s/8qb7y4sizf3qcwi/main-ejs-revision.pdf?dl=0"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021._ 
+
+
+4) George E, Mukherjee G and Yano K. <a href="https://www.dropbox.com/s/ng7u9hn2tg4w7bp/alpha_div.pdf?dl=0"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021._ 
+
+
 ## Inference under heterogeneity with applications to Virology
 
 ## Empirical Bayes Theory & Methods
@@ -27,7 +38,6 @@ _&#8226; <a href='https://elifesciences.org/articles/55487'><em>HIV efficiently 
 
 _&#8226; Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a> submitted;_
 
-_&#8226; Gangopadhyay U and Mukherjee G. <a href="https://www.dropbox.com/s/8qb7y4sizf3qcwi/main-ejs-revision.pdf?dl=0"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021._ 
 
 _&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1910.08997.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> Journal of Machine Learning Research, 2020. R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>;_
 
@@ -35,9 +45,7 @@ _&#8226; Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://arxiv.org/pd
 _&#8226; Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> submitted;_
 
 
-_&#8226; George E, Mukherjee G and Yano K. <a href="https://www.dropbox.com/s/ng7u9hn2tg4w7bp/alpha_div.pdf?dl=0"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021._ 
 
-_&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, Vol 43, No 3 (2015), 937-961. R-Code: <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>;_
 
 _&#8226; Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> Journal of the Royal Statistical Society: Series B, 79.5 (2017): 1527-1546. R-Code: 
   <a href='https://www.dropbox.com/sh/udjapvtjonod1xy/AABkaqWzXkYpQ-oVAp1Pb6X9a?dl=0'><em>click here</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>;_
@@ -51,7 +59,6 @@ _&#8226; Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.
 
 _&#8226; Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science, 2020._
 
-_&#8226; Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2021 (forthcoming)._
 
 _&#8226; Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a> arXiv:1511.00028 [math.ST]_
 
