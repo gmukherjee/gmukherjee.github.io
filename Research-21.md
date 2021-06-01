@@ -84,7 +84,7 @@ to Annals of Statistics.
 
 ### Miscelleneous
 
-1) <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>The rotavirus NSP1 protein inhibits IFN-mediated STAT1 activation,</em></a>Journal of Virology, 2014; With Greenberg lab of Stanford Medical School   
+1) <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>The rotavirus NSP1 protein inhibits IFN-mediated STAT1 activation</em></a>, Journal of Virology, 2014; With Greenberg lab of Stanford Medical School   
    
 2) <a href=' '><em>Early pregnancy testosterone after ovarian stimulation and pregnancy outcome</em></a>, Fertility and Sterility, 2011 (in collaboration with  Stanford Children Hospital). 
    
