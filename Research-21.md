@@ -51,15 +51,21 @@ layout: default
 3) Luo J, Mukherjee G and Sun W.<a href=' '> <em>Transfer learning for  empirical Bayes estimation: an integrative nonparametric Tweedie approach</em></a> submitted 
 to Annals of Statistics.
 
-4) Luo J, Choi Y, Mukherjee G and Sun W.<a href=' '> <em>Structure adaptive sparse estimation for spatial signals: a false discovery rate thresholding approach/em></a> Preprint available under request. 
+4) Luo J, Choi Y, Mukherjee G and Sun W.<a href=' '> <em>Structure adaptive sparse estimation for spatial signals: a false discovery rate thresholding approach</em></a> Preprint available under request. 
    
 ### Large-scale longitudinal data analysis with applications to quantitative Marketing
 
 1) Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://www.tandfonline.com/doi/ref/10.1080/01621459.2019.1611584'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> Journal of American Statistical Association, 2019. Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>click here</em></a>
 
-2) Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> submitted
+2) Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> Journal of Royal Statistical Society, Series A (forthcoming), 2021.
 
-3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a>
+3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a>  
+
+4) Mukhopadhay S, Kar W, Mukherjee G. <a href=' '><em>Estimating Promotion Effectiveness in Email Marketing: A high-dimensional Bayesian Joint Model for Nested Imbalanced Data</em></a>
+
+5) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <a href=' '><em>Does a Consumer’s Previous Purchase Predict Other Consumers’ Choices? A Bayesian Probit Model with Spatial Correlation in Preference</em></a>
+
+6) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <a href=' '><em>Analyzing consumer choices for hybrid cars using a probit model with multiple spatial weights</em></a>. Preprint. 
 
 
 ### Two Sample testing with applications to Single-cell Virology
