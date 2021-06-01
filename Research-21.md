@@ -4,6 +4,16 @@ layout: default
 
 ## High-dimensional Predictive Inference
 
+## Inference under heterogeneity with applications to Virology
+
+## Empirical Bayes Theory & Methods
+
+## Shrinkage Theory for Integrative Estimation
+
+## Large-scale shrinkage & GLMMs with applications to quantitative Marketing
+
+
+
 _&#8226; Luo J, Mukherjee G and Sun W.<a href=' '> <em>Improved Nonparametric Empirical Bayes Estimation By Transfer Learning</em></a> Submitted._
 
 
