@@ -14,14 +14,18 @@ layout: default
 
 4) George E, Mukherjee G and Yano K. <a href="https://www.dropbox.com/s/ng7u9hn2tg4w7bp/alpha_div.pdf?dl=0"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021.
 
+5) Mukherjee G. <em> Minimax Adaptive Predictive Density Estimation for Non-parametric Regression</em>, Preprint.
 
-### Inference under heterogeneity with applications to Virology
 
-Banerjee T, Bhattacharya B and Mukherjee G.<a href='https://arxiv.org/pdf/2003.02937.pdf'> <em>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </em></a> Annals of Applied Statistics, 2020; R-package: TRUH.
+### Inference under heterogeneity
 
-Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> Journal of the Royal Statistical Society: Series B; 2017. R-Code: <a href='https://www.dropbox.com/sh/udjapvtjonod1xy/AABkaqWzXkYpQ-oVAp1Pb6X9a?dl=0'><em>click here</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>
+1) Banerjee T, Bhattacharya B and Mukherjee G.<a href='https://arxiv.org/pdf/2003.02937.pdf'> <em>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </em></a> Annals of Applied Statistics, 2020; R-package: TRUH.
 
-Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> Journal of Multivariate Analysis, 2017. R-Code: <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>
+2) Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> Journal of the Royal Statistical Society: Series B; 2017. R-Code: <a href='https://www.dropbox.com/sh/udjapvtjonod1xy/AABkaqWzXkYpQ-oVAp1Pb6X9a?dl=0'><em>click here</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>
+
+3) Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> Journal of Multivariate Analysis, 2017. R-Code: <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>
+
+4) Banerjee T, Bhattacharya B and Mukherjee G.<a href=' '> <em>Bootstrapped Edge Count Tests for consistent Nonparametric Two Sample Testing Under Heterogeneity, </em></a> Preprint.
 
 
 ### Two Sample testing with applications to Single-cell Virology
