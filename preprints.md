@@ -2,4 +2,4 @@
 layout: default
 ---
 
-<a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="pdfs/ProjMarr_slides.pdf">CASP</a>
