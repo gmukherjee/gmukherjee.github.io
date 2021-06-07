@@ -2,4 +2,4 @@
 layout: default
 ---
 
-<a href="papers/casp.pdf">CASP</a>
+<a href="pdfs/casp.pdf">CASP</a>
