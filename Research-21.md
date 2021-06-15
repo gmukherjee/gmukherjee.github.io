@@ -31,7 +31,7 @@ layout: default
 
 1) Brown LD, Mukherjee G  and Weinstein  A. <a href='gmukherjee.github.io/pdfs/anova-2way.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics, Vol 46, No 4 (2018), 1693-1720.
 
-2) Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1910.08997.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> Journal of Machine Learning Research, 2020. R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>
+2) Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='gmukherjee.github.io/pdfs/jmlr-19-873.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> Journal of Machine Learning Research, 2020. R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>
 
 3) Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science, 2021.
 
@@ -48,22 +48,21 @@ layout: default
 
 2) Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.
 
-3) Luo J, Mukherjee G and Sun W.<a href=' '> <em>Transfer learning for  empirical Bayes estimation: an integrative nonparametric Tweedie approach</em></a> submitted 
-to Annals of Statistics.
+3) Luo J, Mukherjee G and Sun W.<a href='gmukherjee.github.io/pdfs/nit.pdf'> <em>Transfer learning for  empirical Bayes estimation: an integrative nonparametric Tweedie approach</em></a> under review in the Annals of Statistics.
 
 4) Luo J, Choi Y, Mukherjee G and Sun W.<a href=' '> <em>Structure adaptive sparse estimation for spatial signals: a false discovery rate thresholding approach</em></a> Preprint available under request. 
    
 ### Large-scale longitudinal data analysis with applications to quantitative Marketing
 
-1) Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://www.tandfonline.com/doi/ref/10.1080/01621459.2019.1611584'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> Journal of American Statistical Association, 2019. Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>click here</em></a>
+1) Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='gmukherjee.github.io/pdfs/cezij.pdf'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> Journal of American Statistical Association, 2019. Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>click here</em></a>
 
-2) Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> Journal of Royal Statistical Society, Series A (forthcoming), 2021.
+2) Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href='gmukherjee.github.io/pdfs/BA1264.pdf'><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> Journal of Royal Statistical Society, Series A (forthcoming), 2021.
 
-3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href=' '><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a>  
+3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href='gmukherjee.github.io/pdfs/crejm.pdf'><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a>  
 
-4) Mukhopadhay S, Kar W, Mukherjee G. <a href=' '><em>Estimating Promotion Effectiveness in Email Marketing: A high-dimensional Bayesian Joint Model for Nested Imbalanced Data</em></a>
+4) Mukhopadhay S, Kar W, Mukherjee G. <a href='gmukherjee.github.io/pdfs/emarketing.pdf'><em>Estimating Promotion Effectiveness in Email Marketing: A high-dimensional Bayesian Joint Model for Nested Imbalanced Data</em></a>
 
-5) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <a href=' '><em>Does a Consumer’s Previous Purchase Predict Other Consumers’ Choices? A Bayesian Probit Model with Spatial Correlation in Preference</em></a>
+5) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <a href='gmukherjee.github.io/pdfs/sprobit.pdf '><em>Does a Consumer’s Previous Purchase Predict Other Consumers’ Choices? A Bayesian Probit Model with Spatial Correlation in Preference</em></a>
 
 6) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <a href=' '><em>Analyzing consumer choices for hybrid cars using a probit model with multiple spatial weights</em></a>. Preprint. 
 
@@ -84,11 +83,11 @@ to Annals of Statistics.
 
 ### Miscelleneous
 
-1) <a href='http://www.pnas.org/content/109/50/20667.abstract'><em>The rotavirus NSP1 protein inhibits IFN-mediated STAT1 activation</em></a>, Journal of Virology, 2014; With Greenberg lab of Stanford Medical School   
+1) <a href='https://journals.asm.org/doi/full/10.1128/JVI.01501-13'><em>The rotavirus NSP1 protein inhibits IFN-mediated STAT1 activation</em></a>, Journal of Virology, 2014; With Greenberg lab of Stanford Medical School   
    
-2) <a href=' '><em>Early pregnancy testosterone after ovarian stimulation and pregnancy outcome</em></a>, Fertility and Sterility, 2011 (in collaboration with  Stanford Children Hospital). 
+2) <a href='https://www.fertstert.org/article/S0015-0282(11)02705-1/fulltext'><em>Early pregnancy testosterone after ovarian stimulation and pregnancy outcome</em></a>, Fertility and Sterility, 2011 (in collaboration with  Stanford Children Hospital). 
    
-3) <a href=' '><em> First Trimester Testosterone After Ovarian Stimulation and Its Effect on Pregnancy Outcomes</em></a>, Fertility and Sterility, 2011 (in collaboration with Stanford Children Hospital). 
+3) <a href='https://www.fertstert.org/article/S0015-0282(11)00105-1/abstract'><em> First Trimester Testosterone After Ovarian Stimulation and Its Effect on Pregnancy Outcomes</em></a>, Fertility and Sterility, 2011 (in collaboration with Stanford Children Hospital). 
 
 4) Mukherjee G. <em>Book review</em> of <a href='https://www.taylorfrancis.com/books/9780429167966'>Robust Methods for Data Reduction by A. Farcomeni and L. Greco.</a> Journal of the American Statistical Association, 917, Vol 111, 2016.
 
