@@ -7,12 +7,12 @@ layout: default
 1) Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, 2015. R-Code: <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>.
 
 
-2) Mukherjee G and Johnstone IM. <a href='gmukherjee.github.io/pdfs/minimax-prde.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2021 (forthcoming).
+2) Mukherjee G and Johnstone IM. <a href='https://gmukherjee.github.io/pdfs/minimax-prde.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2021 (forthcoming).
 
-3) Gangopadhyay U and Mukherjee G. <a href="gmukherjee.github.io/pdfs/EJS1818.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021.
+3) Gangopadhyay U and Mukherjee G. <a href="https://gmukherjee.github.io/pdfs/EJS1818.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021.
 
 
-4) George E, Mukherjee G and Yano K. <a href="gmukherjee.github.io/pdfs/BA1264.pdf"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021.
+4) George E, Mukherjee G and Yano K. <a href="https://gmukherjee.github.io/pdfs/BA1264.pdf"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021.
 
 5) Mukherjee G. <em> Minimax Adaptive Predictive Density Estimation for Non-parametric Regression</em>, Preprint.
 
