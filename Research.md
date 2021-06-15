@@ -89,6 +89,8 @@ layout: default
    
 3) <a href='https://www.fertstert.org/article/S0015-0282(11)00105-1/abstract'><em> First Trimester Testosterone After Ovarian Stimulation and Its Effect on Pregnancy Outcomes</em></a>, Fertility and Sterility, 2011 (in collaboration with Stanford Children Hospital). 
 
+4) George EI, Marchand E, Mukherjee G, and Paul D. <a href='https://gmukherjee.github.io/pdfs/report-19w5188.pdf'><em>New and Evolving Roles of Shrinkage in Large-Scale Prediction and Inference.</em></a>, BIRS Workshop Report, 2019.
+
 4) Mukherjee G. <em>Book review</em> of <a href='https://www.taylorfrancis.com/books/9780429167966'>Robust Methods for Data Reduction by A. Farcomeni and L. Greco.</a> Journal of the American Statistical Association, 917, Vol 111, 2016.
 
 5) Phd Thesis: <a href='https://gmukherjee.github.io/pdfs/thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a> Adviser: Johnstone IM. Committee: Diaconis P, Donoho DL; Stanford University, 2013.
