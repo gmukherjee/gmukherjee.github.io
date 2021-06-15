@@ -91,5 +91,5 @@ layout: default
 
 4) Mukherjee G. <em>Book review</em> of <a href='https://www.taylorfrancis.com/books/9780429167966'>Robust Methods for Data Reduction by A. Farcomeni and L. Greco.</a> Journal of the American Statistical Association, 917, Vol 111, 2016.
 
-5) Phd Thesis: <a href='https://www.dropbox.com/s/y9m1dn9k1ko6jd3/gourab-thesis-augmented.pdf?dl=0'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a> Adviser: Johnstone IM. Committee: Diaconis P, Donoho DL; Stanford University, 2013.
+5) Phd Thesis: <a href='https://gmukherjee.github.io/pdfs/thesis.pdf'><em>Sparsity and Shrinkage in Predictive Density Estimation</em></a> Adviser: Johnstone IM. Committee: Diaconis P, Donoho DL; Stanford University, 2013.
 
