@@ -7,19 +7,19 @@ layout: default
 1) Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, 2015. R-Code: <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>.
 
 
-2) Mukherjee G and Johnstone IM. <a href='https://arxiv.org/pdf/1707.04380.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2021 (forthcoming).
+2) Mukherjee G and Johnstone IM. <a href='gmukherjee.github.io/pdfs/minimax-prde.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2021 (forthcoming).
 
-3) Gangopadhyay U and Mukherjee G. <a href="https://www.dropbox.com/s/8qb7y4sizf3qcwi/main-ejs-revision.pdf?dl=0"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021.
+3) Gangopadhyay U and Mukherjee G. <a href="gmukherjee.github.io/pdfs/EJS1818.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021.
 
 
-4) George E, Mukherjee G and Yano K. <a href="https://www.dropbox.com/s/ng7u9hn2tg4w7bp/alpha_div.pdf?dl=0"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021.
+4) George E, Mukherjee G and Yano K. <a href="gmukherjee.github.io/pdfs/BA1264.pdf"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021.
 
 5) Mukherjee G. <em> Minimax Adaptive Predictive Density Estimation for Non-parametric Regression</em>, Preprint.
 
 
 ### Inference under heterogeneity
 
-1) Banerjee T, Bhattacharya B and Mukherjee G.<a href='https://arxiv.org/pdf/2003.02937.pdf'> <em>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </em></a> Annals of Applied Statistics, 2020; R-package: TRUH.
+1) Banerjee T, Bhattacharya B and Mukherjee G.<a href='gmukherjee.github.io/pdfs/truh.pdf'> <em>A nearest-neighbor based nonparametric test for viral remodeling in heterogeneous single-cell proteomic data. </em></a> Annals of Applied Statistics, 2020; R-package: TRUH.
 
 2) Radchenko P and Mukherjee G. <a href='https://arxiv.org/pdf/1412.0753.pdf'><em>Convex clustering via L1 fusion penalization.</em></a> Journal of the Royal Statistical Society: Series B; 2017. R-Code: <a href='https://www.dropbox.com/sh/udjapvtjonod1xy/AABkaqWzXkYpQ-oVAp1Pb6X9a?dl=0'><em>click here</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>
 
@@ -29,22 +29,22 @@ layout: default
 
 ### Empirical Bayes Theory & Methods
 
-1) Brown LD, Mukherjee G  and Weinstein  A. <a href='https://arxiv.org/pdf/1605.08466.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics, Vol 46, No 4 (2018), 1693-1720.
+1) Brown LD, Mukherjee G  and Weinstein  A. <a href='gmukherjee.github.io/pdfs/anova-2way.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics, Vol 46, No 4 (2018), 1693-1720.
 
 2) Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1910.08997.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> Journal of Machine Learning Research, 2020. R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>
 
-3) Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science, 2020.
+3) Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science, 2021.
 
 
-4) Banerjee T, Mukherjee G and Paul D. <a href='https://www.dropbox.com/s/nj62dbw10dsx1e8/casp.pdf?dl=0'> <em>Improved Shrinkage Prediction under a Spiked Covariance Structure.</em></a> Invited revision submitted in Journal of Machine Learning Research, 2021. R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
+4) Banerjee T, Mukherjee G and Paul D. <a href='gmukherjee.github.io/pdfs/casp.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance Structure.</em></a> Invited revision submitted in Journal of Machine Learning Research, 2021. R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
 
-5) Gangopadhyay U and Mukherjee G. <a href=' '> <em> Optimal Shrinkage Prediction of Several Poisson Quantiles via loss estimation </em></a> under review in Bernoulli. 
+5) Gangopadhyay U and Mukherjee G. <a href=' '> <em> Optimal Shrinkage Prediction of Several Poisson Quantiles via loss estimation </em></a> submitted. 
 
 6) Mukherjee G, Brown LD and  Rusmevichientong P. <a href='https://arxiv.org/pdf/1511.00028.pdf'><em>Efficient Empirical Bayes prediction under check loss using Asymptotic Risk Estimates.</em></a> arXiv:1511.00028 [math.ST]
 
 ### Shrinkage Theory for Integrative Estimation
 
-1) Banerjee T, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/1811.11930.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a> Journal of American Statistical Association, 2020. R-Package: <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
+1) Banerjee T, Mukherjee G and Sun W. <a href='gmukherjee.github.io/pdfs/asus.pdf'> <em>Adaptive Sparse Estimation with Side Information.</em></a> Journal of American Statistical Association, 2020. R-Package: <a href='https://cran.r-project.org/web/packages/asus/index.html'><em>ASUS</em></a>
 
 2) Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.
 
