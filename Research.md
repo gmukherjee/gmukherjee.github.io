@@ -14,7 +14,7 @@ layout: default
 
 4) George E, Mukherjee G and Yano K. <a href="https://gmukherjee.github.io/pdfs/BA1264.pdf"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021.
 
-5) Mukherjee G. <em> Minimax Adaptive Predictive Density Estimation for Non-parametric Regression</em>, Preprint.
+<!---  5) Mukherjee G. <em> Minimax Adaptive Predictive Density Estimation for Non-parametric Regression</em>, Preprint. --->
 
 
 ### Inference under heterogeneity
