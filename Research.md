@@ -31,12 +31,12 @@ layout: default
 
 1) Brown LD, Mukherjee G  and Weinstein  A. <a href='https://gmukherjee.github.io/pdfs/anova-2way.pdf'><em>Empirical Bayes Estimates for a 2-Way Cross-Classified Additive Model.</em></a> Annals of Statistics, Vol 46, No 4 (2018), 1693-1720.
 
-2) Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://gmukherjee.github.io/pdfs/jmlr-19-873.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> Journal of Machine Learning Research, 2020. R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>
+2) Banerjee T, Liu Q, Mukherjee G and Sun W. <a href='https://gmukherjee.github.io/pdfs/jmlr-19-873.pdf'><em>A General Framework for Empirical Bayes Estimation in the Discrete Linear Exponential Family. </em></a> Journal of Machine Learning Research, 2021. R-code:  <a href='https://gmukherjee.github.io/Software/2019-10-10-npeb/'><em>NPEB</em></a>
 
 3) Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science, 2021.
 
 
-4) Banerjee T, Mukherjee G and Paul D. <a href='https://gmukherjee.github.io/pdfs/casp.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance Structure.</em></a> Journal of Machine Learning Research, 2021. R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
+4) Banerjee T, Mukherjee G and Paul D. <a href='https://gmukherjee.github.io/pdfs/casp.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance Structure.</em></a> Journal of Machine Learning Research (forthcoming), 2021. R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
 
 5) Gangopadhyay U and Mukherjee G. <a href=' '> <em> Optimal Shrinkage Prediction of Several Poisson Quantiles via loss estimation </em></a> submitted. 
 
