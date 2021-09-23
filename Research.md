@@ -56,7 +56,7 @@ layout: default
 
 1) Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://gmukherjee.github.io/pdfs/cezij.pdf'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> Journal of American Statistical Association, 2019. Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>click here</em></a>
 
-2) Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href='https://gmukherjee.github.io/pdfs/BA1264.pdf'><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> Journal of Royal Statistical Society, Series A (forthcoming), 2021.
+2) Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href='https://gmukherjee.github.io/pdfs/jrssa-2021.pdf'><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> Journal of Royal Statistical Society, Series A (forthcoming), 2021.
 
 3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href='https://gmukherjee.github.io/pdfs/crejm.pdf'><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a>  
 
