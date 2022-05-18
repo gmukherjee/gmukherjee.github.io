@@ -7,12 +7,12 @@ layout: default
 1) Mukherjee G and Johnstone IM. <a href='https://arxiv.org/abs/1211.2071'><em>Exact minimax estimation of the predictive density in sparse Gaussian models.</em></a> Annals of Statistics, 2015. R-Code: <a href='https://gmukherjee.github.io/Software/2014-01-31-pde/'><em>click here</em></a>.
 
 
-2) Mukherjee G and Johnstone IM. <a href='https://gmukherjee.github.io/pdfs/minimax-prde.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2021 (forthcoming).
+2) Mukherjee G and Johnstone IM. <a href='https://gmukherjee.github.io/pdfs/minimax-prde.pdf'><em>On Minimax Optimality of Sparse Bayes Predictive Density Estimates.</em></a> Annals of Statistics, 2022, Vol. 50, No. 1, 81-106.
 
-3) Gangopadhyay U and Mukherjee G. <a href="https://gmukherjee.github.io/pdfs/EJS1818.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a> Electronic Journal of Statistics, 2021.
+3) Gangopadhyay U and Mukherjee G. <a href="https://gmukherjee.github.io/pdfs/EJS1818.pdf"><em>On Discrete Priors and Sparse Minimax Optimal Predictive Densities.</em></a>Electronic Journal of Statistics, 2021, Vol. 15, No. 1, 1636-1660.
 
 
-4) George E, Mukherjee G and Yano K. <a href="https://gmukherjee.github.io/pdfs/BA1264.pdf"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021.
+4) George E, Mukherjee G and Yano K. <a href="https://gmukherjee.github.io/pdfs/BA1264.pdf"><em>Optimal Shrinkage Estimation of Predictive Densities under alpha–divergences.</em></a> Bayesian Analysis, 2021, 16, Number 4, pp. 1139-1155.
 
 <!---  5) Mukherjee G. <em> Minimax Adaptive Predictive Density Estimation for Non-parametric Regression</em>, Preprint. --->
 
@@ -25,7 +25,7 @@ layout: default
 
 3) Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> Journal of Multivariate Analysis, 2017. R-Code: <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>
 
-4) Banerjee T, Bhattacharya B and Mukherjee G. <em>Bootstrapped Edge Count Tests for consistent Nonparametric Two Sample Testing Under Heterogeneity, </em> Preprint.
+4) Banerjee T, Bhattacharya B and Mukherjee G. <em>Bootstrapped Edge Count Tests for consistent Nonparametric Two Sample Testing Under Heterogeneity, </em> Preprint, 2022.
 
 ### Empirical Bayes Theory & Methods
 
@@ -60,7 +60,7 @@ layout: default
 
 3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href='https://gmukherjee.github.io/pdfs/crejm.pdf'><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a>  
 
-4) Mukhopadhay S, Kar W, Mukherjee G. <a href='https://gmukherjee.github.io/pdfs/emarketing.pdf'><em>Estimating Promotion Effectiveness in Email Marketing: A high-dimensional Bayesian Joint Model for Nested Imbalanced Data</em></a>
+4) Mukhopadhay S, Kar W, Mukherjee G. <a href='https://gmukherjee.github.io/pdfs/emarketing.pdf'><em>Estimating Promotion Effectiveness in Email Marketing: A high-dimensional Bayesian Joint Model for Nested Imbalanced Data</em></a>, Annals of Applied Statistics, 2022.
 
 5) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <a href='https://gmukherjee.github.io/pdfs/sprobit.pdf '><em>Does a Consumer’s Previous Purchase Predict Other Consumers’ Choices? A Bayesian Probit Model with Spatial Correlation in Preference</em></a>
 
