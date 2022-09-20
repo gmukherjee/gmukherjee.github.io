@@ -25,7 +25,7 @@ layout: default
 
 3) Banerjee T, Mukherjee G and Radchenko P. <a href='https://arxiv.org/pdf/1701.02857.pdf'><em>Feature Screening in Large Scale Cluster Analysis.</em></a> Journal of Multivariate Analysis, 2017. R-Code: <a href='https://gmukherjee.github.io/Software/2017-01-10-cosci/'><em>COSCI Algorithm</em></a>; Also, See R-package: <a href='https://gmukherjee.github.io/Software/2017-09-19-fusionclust/'><em>fusionclust</em></a>
 
-4) Banerjee T, Bhattacharya B and Mukherjee G. <em>Bootstrapped Edge Count Tests for consistent Nonparametric Two Sample Testing Under Heterogeneity, </em> Preprint, 2022.
+4) Banerjee T, Bhattacharya B and Mukherjee G. <em>Bootstrapped Edge Count Tests for Nonparametric Two-Sample Inference Under Heterogeneity</em>, Submitted, 2022.
 
 ### Empirical Bayes Theory & Methods
 
@@ -36,7 +36,7 @@ layout: default
 3) Gang B, Mukherjee G and Sun W. <a href='https://arxiv.org/pdf/2003.01873.pdf'><em>Large-Scale Shrinkage Estimation under Markovian Dependence</em></a>. Book Chapter in IISA Series on Statistics and Data Science, 2021.
 
 
-4) Banerjee T, Mukherjee G and Paul D. <a href='https://gmukherjee.github.io/pdfs/casp.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance Structure.</em></a> Journal of Machine Learning Research (forthcoming), 2021. R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
+4) Banerjee T, Mukherjee G and Paul D. <a href='https://gmukherjee.github.io/pdfs/casp.pdf'> <em>Improved Shrinkage Prediction under a Spiked Covariance Structure.</em></a> Journal of Machine Learning Research, 2021, 22(180):1-40. R-Package: <a href='https://github.com/trambakbanerjee/casp#casp'><em>CASP</em></a>
 
 5) Gangopadhyay U and Mukherjee G. <a href=' '> <em> Optimal Shrinkage Prediction of Several Poisson Quantiles via loss estimation </em></a> submitted. 
 
@@ -48,23 +48,23 @@ layout: default
 
 2) Banerjee T and Mukherjee G. <em>Discussion </em> of <a href='https://www.rss.org.uk/Images/PDF/publications/2018/Cai-4-Dec-2018-1.pdf'>CARS: covariate assisted ranking and screening paper by Cai, Sun and Wang</a>. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 2019.
 
-3) Luo J, Mukherjee G and Sun W.<a href='https://gmukherjee.github.io/pdfs/nit.pdf'> <em>Transfer learning for  empirical Bayes estimation: an integrative nonparametric Tweedie approach</em></a> under review in the Annals of Statistics.
+3) Luo J, Mukherjee G and Sun W.<a href='https://gmukherjee.github.io/pdfs/nit.pdf'> <em>Transfer learning for  empirical Bayes estimation: an integrative nonparametric Tweedie approach</em></a>Preprint, 2022.
 
-4) Luo J, Choi Y, Mukherjee G and Sun W. <em>Structure adaptive sparse estimation for spatial signals: a false discovery rate thresholding approach</em> Preprint available under request. 
+4) Luo J, Choi Y, Mukherjee G and Sun W. <em>Structure adaptive sparse estimation for spatial signals: a false discovery rate thresholding approach</em> Preprint, 2022.
    
 ### Large-scale longitudinal data analysis with applications to quantitative Marketing
 
 1) Banerjee T, Mukherjee G, Dutta S and Ghosh P. <a href='https://gmukherjee.github.io/pdfs/cezij.pdf'><em>A Large-scale Constrained Joint Modeling Approach For Predicting User Activity, Engagement And Churn With Application To Freemium Mobile Games.</em></a> Journal of American Statistical Association, 2019. Matlab toolbox: <a href='https://gmukherjee.github.io/Software/2018-12-31-cezij/'><em>click here</em></a>
 
-2) Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href='https://gmukherjee.github.io/pdfs/jrssa-2021.pdf'><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> Journal of Royal Statistical Society, Series A (forthcoming), 2021.
+2) Karmakar B, Liu P, Mukherjee G, Dutta S and Che H. <a href='https://gmukherjee.github.io/pdfs/jrssa-2021.pdf'><em>Improved Retention Analysis in Freemium Role-Playing Games by Jointly Modeling Players’ Motivation, Progression and Churn.</em></a> Journal of Royal Statistical Society, Series A 2022, 185:102–133.
 
-3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href='https://gmukherjee.github.io/pdfs/crejm.pdf'><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a>  
+3) Banerjee T, Liu P, Mukherjee G, Dutta S and Che H. <a href='https://gmukherjee.github.io/pdfs/crejm.pdf'><em>A Crossed Random Effects Joint Modeling Framework for Improved Prediction of Player Responses in Massively Multiplayer Online Role Playing Games.</em></a> under review in AoAS, 2022  
 
 4) Mukhopadhay S, Kar W, Mukherjee G. <a href='https://gmukherjee.github.io/pdfs/emarketing.pdf'><em>Estimating Promotion Effectiveness in Email Marketing: A high-dimensional Bayesian Joint Model for Nested Imbalanced Data</em></a>, Annals of Applied Statistics, 2022.
 
-5) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <a href='https://gmukherjee.github.io/pdfs/sprobit.pdf '><em>Does a Consumer’s Previous Purchase Predict Other Consumers’ Choices? A Bayesian Probit Model with Spatial Correlation in Preference</em></a>
+5) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <a href='https://gmukherjee.github.io/pdfs/sprobit.pdf '><em>Does a Consumer’s Previous Purchase Predict Other Consumers’ Choices? A Bayesian Probit Model with Spatial Correlation in Preference</em></a>, Preprint, 2022
 
-6) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <em>Analyzing consumer choices for hybrid cars using a probit model with multiple spatial weights</em>. Preprint. 
+6) Karmakar B, Kwon O, Mukherjee G, Siddharth S and Silva-Risso JM. <em>Analyzing consumer choices for hybrid cars using a probit model with multiple spatial weights</em>. Preprint, 2022.  
 
 
 ### Two Sample testing with applications to Single-cell Virology
