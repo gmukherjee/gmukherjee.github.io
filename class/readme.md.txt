@@ -1,7 +1,7 @@
-2023 EXCEL JUMPSTART SESSION
+EXCEL JUMPSTART SESSION
 
-Download data file <a href="https://www.w3schools.com">Visit W3Schools</a>
+Download data file: <a href="https://gmukherjee.github.io/class/datalog.xlsx">datalog.xlsx</a>
 
-Download slides <a href="https://www.w3schools.com">Visit W3Schools</a>
+Download slides: <a href="https://gmukherjee.github.io/class/MBA-2025-excel-jumpstart.pdf">Excel Jumpstart slides</a>
 
-Download Handout <a href="https://www.w3schools.com">Visit W3Schools</a>
+Download Handout: <a href="hhttps://gmukherjee.github.io/class/hand-out.pdf">questions</a>
