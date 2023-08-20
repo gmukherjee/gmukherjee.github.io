@@ -1,9 +1,3 @@
-EXCEL JUMPSTART SESSION
+GSBA 604 FALL 2023
 
-Download data file: <a href="https://gmukherjee.github.io/class/datalog.xlsx">datalog.xlsx</a>
-
-Download slides: <a href="https://gmukherjee.github.io/class/MBA-2025-excel-jumpstart.pdf">Excel Jumpstart slides</a>
-
-Download Handout: <a href="https://gmukherjee.github.io/class/hand-out.pdf">Questions</a>
-
-Download Solution: <a href="https://gmukherjee.github.io/class/datalog-solution.xlsx">datalog-solution.xlsx</a>
+Click link to go to class homepage: <a href="https://paper.dropbox.com/doc/GSBA-604-Fall-2023--B~b6df2AxNJbYUM~12PJjDsfAg-YjFvTwKDNSAI9uuggmQC1">Class Link</a>
