@@ -1,3 +1,3 @@
 GSBA 604 FALL 2023
 
-Click link to go to class homepage: <a href="https://paper.dropbox.com/doc/GSBA-604-Fall-2023--B~b6df2AxNJbYUM~12PJjDsfAg-YjFvTwKDNSAI9uuggmQC1">Class Link</a>
+Click link to go to class homepage: <a href="https://www.dropbox.com/scl/fo/cxlq75bzqpa1o5mso404m/AGIRrQ07-30hOlvDdPPLO5M?rlkey=ywz0wi2q0mivlyryaz8vqb1j2&dl=0">Class Link</a>
