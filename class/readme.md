@@ -1,3 +1,3 @@
-MBA Workshops FALL 2024
+Jumpstart Sessions: USC MBA Class of 2025
 
-Click link to go to class homepage: <a href="https://www.dropbox.com/scl/fo/cxlq75bzqpa1o5mso404m/AGIRrQ07-30hOlvDdPPLO5M?rlkey=ywz0wi2q0mivlyryaz8vqb1j2&dl=0">Class Link</a>
+Click link to go to session homepage: <a href="https://www.dropbox.com/scl/fo/a1wz9hsqvcy5bgbataxub/AI1i3iLbw8_mLC5qZt3ZTnk?rlkey=dxfnbj8rg5jf3bx0sv1ls624x&dl=0">Class Link</a>
