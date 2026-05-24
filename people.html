@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>People – Gourab Mukherjee</title>
+  <style>
+    /* ── Reset & base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Georgia", "Times New Roman", serif;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #333;
+      background: #fff;
+    }
+    a { color: #990000; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Top bar ── */
+    .site-header {
+      border-bottom: 2px solid #990000;
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .site-title {
+      font-size: 1.25rem;
+      font-weight: normal;
+      letter-spacing: 0.01em;
+    }
+    .site-title a { color: #990000; }
+
+    /* ── Nav ── */
+    .site-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 20px;
+      align-items: center;
+    }
+    .site-nav a {
+      font-size: 0.95rem;
+      color: #555;
+      white-space: nowrap;
+    }
+    .site-nav a:hover,
+    .site-nav a.active { color: #990000; text-decoration: none; border-bottom: 1px solid #990000; }
+    .hamburger { display: none; font-size: 1.3rem; cursor: pointer; color: #990000; }
+
+    /* ── Main content ── */
+    .page-content {
+      max-width: 760px;
+      margin: 48px auto;
+      padding: 0 24px;
+    }
+    h1 {
+      font-size: 1.6rem;
+      font-weight: normal;
+      margin-bottom: 36px;
+      color: #990000;
+    }
+
+    /* ── Section boxes ── */
+    .section-box {
+      border: 1px solid #c8a0a0;
+      border-radius: 4px;
+      margin-bottom: 36px;
+      overflow: hidden;
+    }
+    .section-box-header {
+      background: #990000;
+      border-bottom: 1px solid #800000;
+      padding: 12px 22px;
+      font-size: 1rem;
+      font-weight: bold;
+      letter-spacing: 0.03em;
+      color: #fff;
+    }
+    .section-box-body {
+      padding: 0 22px;
+    }
+
+    /* ── Inner tabs (inside Alumni box) ── */
+    .inner-tabs {
+      display: flex;
+      border-bottom: 1px solid #ddd;
+      background: #fff;
+    }
+    .inner-tab-btn {
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      cursor: pointer;
+      font-family: inherit;
+      font-size: 0.9rem;
+      padding: 10px 18px;
+      color: #777;
+      margin-bottom: -1px;   /* overlap the box border */
+      transition: color 0.15s, border-color 0.15s;
+      white-space: nowrap;
+    }
+    .inner-tab-btn:hover { color: #990000; }
+    .inner-tab-btn.active {
+      color: #990000;
+      border-bottom: 2px solid #990000;
+      font-weight: bold;
+    }
+
+    /* ── Inner tab panels ── */
+    .inner-panel { display: none; padding: 0 22px; }
+    .inner-panel.active { display: block; }
+
+    /* ── Student cards ── */
+    .student-list { list-style: none; }
+    .student-card {
+      padding: 18px 0;
+      border-bottom: 1px solid #eee;
+    }
+    .student-card:last-child { border-bottom: none; }
+    .student-name {
+      font-size: 1.02rem;
+      font-weight: bold;
+      color: #111;
+      margin-bottom: 3px;
+    }
+    .student-dept {
+      font-size: 0.93rem;
+      color: #555;
+      margin-bottom: 2px;
+    }
+    .student-note {
+      font-size: 0.93rem;
+      color: #555;
+    }
+    .student-note em { font-style: italic; }
+
+    /* ── Simple RA list (no dividers) ── */
+    .ra-list {
+      list-style: none;
+      padding: 10px 0 18px;
+    }
+    .ra-list li {
+      font-size: 0.95rem;
+      color: #333;
+      padding: 4px 0;
+    }
+
+    /* ── Year group headings (inside panels) ── */
+    .year-heading {
+      font-size: 0.85rem;
+      font-weight: bold;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #990000;
+      padding: 16px 0 6px;
+      border-bottom: 1px solid #e8c8c8;
+      margin-bottom: 4px;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .site-nav { display: none; flex-direction: column; }
+      .site-nav.open { display: flex; width: 100%; }
+      .hamburger { display: inline; }
+      .page-content { margin: 28px auto; }
+      .inner-tab-btn { padding: 10px 12px; font-size: 0.85rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Header ── -->
+<header class="site-header">
+  <div class="site-title">
+    <a href="https://gmukherjee.github.io/index.html">Gourab Mukherjee</a>
+  </div>
+
+  <nav class="site-nav" id="site-nav">
+    <a href="https://gmukherjee.github.io/homepage.html">Home</a>
+    <a href="https://gmukherjee.github.io/bio.html">Bio</a>
+    <a href="https://gmukherjee.github.io/research.html">Research</a>
+    <a href="https://gmukherjee.github.io/teaching.html">Teaching</a>
+    <a href="https://gmukherjee.github.io/Software/">Software</a>
+    <a href="people.html" class="active">People</a>
+  </nav>
+
+  <span class="hamburger" onclick="toggleNav()">☰</span>
+</header>
+
+<!-- ── Page content ── -->
+<main class="page-content">
+  <h1>People</h1>
+
+  <!-- ── Current Students ── -->
+  <div class="section-box">
+    <div class="section-box-header">Current</div>
+    <div class="section-box-body">
+      <ul class="student-list">
+
+        <li class="student-card">
+          <div class="student-name">Benjamin Gillen</div>
+          <div class="student-dept">
+            Department of Mathematics, University of Southern California
+          </div>
+          <div class="student-note">Currently: 4th year PhD student</div>
+          <div class="student-note"><em>Co-advised with Stas Minsker</em></div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Roy Shivam Ram Shreshtth</div>
+          <div class="student-dept">Indian Institute of Technology, Kanpur</div>
+          <div class="student-note">Undergraduate projects in microclustering and amortized inference</div>
+          <div class="student-note"><em>Co-advised with Arnab Hazra</em></div>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+
+  <!-- ── Alumni (with 3 inner tabs) ── -->
+  <div class="section-box">
+    <div class="section-box-header">Alumni</div>
+
+    <!-- Inner tab strip -->
+    <div class="inner-tabs">
+      <button class="inner-tab-btn active"
+              onclick="showInnerTab('phd', this)">PhD Students</button>
+      <button class="inner-tab-btn"
+              onclick="showInnerTab('ra', this)">Project Assistant</button>
+      <button class="inner-tab-btn"
+              onclick="showInnerTab('vol', this)">Research Assistant</button>
+    </div>
+
+    <!-- PhD Students panel -->
+    <div id="inner-phd" class="inner-panel active">
+      <ul class="student-list">
+
+        <li class="student-card">
+          <div class="student-name">Rashmi Ranjan Bhuyan</div>
+          <div class="student-dept">
+            Data Sciences and Operations, University of Southern California
+          </div>
+          <div class="student-note">Graduated in 2025</div>
+          <div class="student-note">
+            Starting Position: Data Scientist at Microsoft
+          </div>
+          <div class="student-note"><em>Co-advised with Adel Javanmard</em></div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Yiqiu Shen</div>
+          <div class="student-dept">
+            Data Sciences and Operations, University of Southern California
+          </div>
+          <div class="student-note">Graduated in 2025</div>
+          <div class="student-note">Starting Position: Data Scientist at ZipRecruiter</div>
+          <div class="student-note"><em>Co-advised with Stas Minsker</em></div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Jiajun Luo</div>
+          <div class="student-dept">
+            Department of Mathematics, University of Southern California
+          </div>
+          <div class="student-note">Graduated in 2021</div>
+          <div class="student-note">Starting Position: Machine Learning Researcher at DiDi, Mountain View, CA</div>
+          <div class="student-note"><em>Thesis Advisors: Wen Sun and Stas Minsker</em></div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Ujan Gangopadhyay</div>
+          <div class="student-dept">
+            Department of Mathematics, University of Southern California
+          </div>
+          <div class="student-note">Graduated in 2021</div>
+          <div class="student-note">Starting Position: Postdoc at National University of Singapore, Department of Mathematics</div>
+          <div class="student-note"><em>Thesis Advisor: Ken Alexander</em></div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Trambak Banerjee</div>
+          <div class="student-dept">
+            Department of Data Sciences and Operations, University of Southern California
+          </div>
+          <div class="student-note">Graduated in 2020</div>
+          <div class="student-note">Starting Position: University of Kansas, School of Business</div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Bowen Gang</div>
+          <div class="student-dept">
+            Department of Mathematics, University of Southern California
+          </div>
+          <div class="student-note">Graduated in 2020</div>
+          <div class="student-note">Starting Position: Fudan University, School of Business</div>
+          <div class="student-note"><em>Thesis Advisors: Wen Sun and Stas Minsker</em></div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- Project Assistant panel -->
+    <div id="inner-ra" class="inner-panel">
+      <ul class="student-list">
+
+        <li class="student-card">
+          <div class="student-name">Bharati Panigrahi</div>
+          <div class="student-dept">USC MS Computer Science</div>
+          <div class="student-note">Project Assistant, 2025–2026</div>
+          <div class="student-note">Starting Position: AKALA Inc.</div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Anushka De</div>
+          <div class="student-dept">Indian Statistical Institute, BS, MS Statistics</div>
+          <div class="student-note">Project Assistant, 2024–2025</div>
+          <div class="student-note">Next Position: PhD Student, Northwestern University</div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Shikha Kumari</div>
+          <div class="student-dept">USC MBA</div>
+          <div class="student-note">Project Assistant, 2025</div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Suhyeon Cho</div>
+          <div class="student-dept">USC MBA</div>
+          <div class="student-note">Project Assistant, 2024–2025</div>
+          <div class="student-note">Starting Position: Senior Associate at PwC</div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Abhishek Banerjee</div>
+          <div class="student-dept">USC MS ISE</div>
+          <div class="student-note">Project Assistant, 2024</div>
+          <div class="student-note">Starting Position: Supply Chain Analyst at Tesla</div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Pranay Bhaskar Mallipudi</div>
+          <div class="student-dept">USC MSBA</div>
+          <div class="student-note">Project Assistant, 2021–2022</div>
+          <div class="student-note">Starting Position: Data Scientist at BCG</div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Shui Yu</div>
+          <div class="student-dept">USC MSBA</div>
+          <div class="student-note">Project Assistant, 2019–2021</div>
+          <div class="student-note">Starting Position: Data Scientist at Walmart</div>
+        </li>
+
+        <li class="student-card">
+          <div class="student-name">Shreerang Javadekar</div>
+          <div class="student-dept">USC MSBA</div>
+          <div class="student-note">Project Assistant, 2018–2020</div>
+          <div class="student-note">Starting Position: Data Scientist at SAP</div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- Research Assistant panel -->
+    <div id="inner-vol" class="inner-panel">
+      <div class="year-heading">2025–2026</div>
+      <ul class="ra-list">
+        <li>Dhruva Arya, USC MBA</li>
+        <li>Saketh Reddy Satharla, USC MBA</li>
+        <li>Mokshya Gupta, USC MBA</li>
+        <li>Manali Gupta, USC MBA</li>
+        <li>Jiayan Xie, USC MBA</li>
+        <li>Harddik Nigam, USC MBA</li>
+        <li>Guljaha Shaik, USC MBA</li>
+        <li>Ayushi Gupta, USC MBA</li>
+      </ul>
+    </div>
+
+  </div><!-- /Alumni box -->
+
+</main>
+
+<script>
+  function showInnerTab(name, btn) {
+    // Deactivate all inner panels and buttons within same box
+    const box = btn.closest('.section-box');
+    box.querySelectorAll('.inner-panel').forEach(p => p.classList.remove('active'));
+    box.querySelectorAll('.inner-tab-btn').forEach(b => b.classList.remove('active'));
+    // Activate selected
+    document.getElementById('inner-' + name).classList.add('active');
+    btn.classList.add('active');
+  }
+
+  function toggleNav() {
+    document.getElementById('site-nav').classList.toggle('open');
+  }
+</script>
+</body>
+</html>
