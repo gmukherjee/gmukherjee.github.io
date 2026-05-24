@@ -20,8 +20,9 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
+html { -webkit-text-size-adjust: 100%; }
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -107,7 +108,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","image","links","output","theme"]}},"value":[{"type":"character","attributes":{},"value":["Research Publications"]},{"type":"character","attributes":{},"value":["profile-pic.jpg"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["BIO"]},{"type":"character","attributes":{},"value":["bio.html"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["RESEARCH"]},{"type":"character","attributes":{},"value":["research.html"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["TEACHING"]},{"type":"character","attributes":{},"value":["teaching.html"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["SOFTWARE"]},{"type":"character","attributes":{},"value":["https://gmukherjee.github.io/Software/"]}]}]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["postcards.css"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","image","links","output","theme"]}},"value":[{"type":"character","attributes":{},"value":["Research Publications"]},{"type":"character","attributes":{},"value":["profile-pic.jpg"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["BIO"]},{"type":"character","attributes":{},"value":["bio.html"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["RESEARCH"]},{"type":"character","attributes":{},"value":["research.html"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["TEACHING"]},{"type":"character","attributes":{},"value":["teaching.html"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["PEOPLE"]},{"type":"character","attributes":{},"value":["people.html"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["SOFTWARE"]},{"type":"character","attributes":{},"value":["https://gmukherjee.github.io/Software/"]}]}]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["postcards.css"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -455,8 +456,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
 
   <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
   <script src="site_libs/autocomplete-0.37.1/autocomplete.min.js"></script>
   <script src="site_libs/fuse-6.4.1/fuse.min.js"></script>
@@ -2406,7 +2407,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2441,6 +2442,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="bio.html">Bio</a>
 <a href="research.html">Research</a>
 <a href="teaching.html">Teaching</a>
+<a href="people.html">People</a>
 <a href="https://gmukherjee.github.io/Software/">Software</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
@@ -2461,10 +2463,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 <div class="d-article">
 <ol>
-<li value="44">
+<li value="45">
 <p>Sarkar A, Mukherjee G and Yano K. <a href="https://arxiv.org/pdf/2603.27984"><em>Empirical Bayes Predictive Density Estimation under Covariate Shift in Large Imbalanced Linear Mixed Models</em></a>, arXiv:2603.27984 [stat.ME]</p>
-<li value="43">
+<li value="44">
 <p>Karmakar B, Kar W, and Mukherjee G. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2406583"><em>Using Penalized Synthetic Controls on Truncated data: A Case Study on Effect of Marijuana Legalization on Physicians’ Payments by Opioid Manufacturers</em></a>, Journal of American Statistical Association, 2025.</p>
+<li value="43">
+<p>Mukherjee G. <a href="https://gmukherjee.github.io/pdfs/ba-discussion-2026.pdf"><em>Robust empirical Bayes prediction using D-BETEL: Discussion of Robust Probabilistic Inference
+via a Constrained Transport Metric</em></a>, Bayesian Analysis, 2026.</p>
 <li value="42">
 <p>Luo J, Banerjee T, Mukherjee G and Sun W.<a href="https://arxiv.org/abs/2308.05883"> <em>Empirical Bayes estimation with side information: A nonparametric integrative Tweedie approach</em></a>, forthcoming in Statistica Sinica, 2025.</p>
 <li value="41">
