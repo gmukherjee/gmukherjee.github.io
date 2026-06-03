@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Media – Gourab Mukherjee</title>
+  <style>
+    /* ── Reset & base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Georgia", "Times New Roman", serif;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #333;
+      background: #fff;
+    }
+    a { color: #990000; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Top bar ── */
+    .site-header {
+      border-bottom: 2px solid #990000;
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .site-title {
+      font-size: 1.25rem;
+      font-weight: normal;
+      letter-spacing: 0.01em;
+    }
+    .site-title a { color: #990000; }
+
+    /* ── Nav ── */
+    .site-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 20px;
+      align-items: center;
+    }
+    .site-nav a {
+      font-size: 0.95rem;
+      color: #555;
+      white-space: nowrap;
+    }
+    .site-nav a:hover,
+    .site-nav a.active { color: #990000; text-decoration: none; border-bottom: 1px solid #990000; }
+    .hamburger { display: none; font-size: 1.3rem; cursor: pointer; color: #990000; }
+
+    /* ── Main content ── */
+    .page-content {
+      max-width: 760px;
+      margin: 48px auto;
+      padding: 0 24px;
+    }
+    h1 {
+      font-size: 1.6rem;
+      font-weight: normal;
+      margin-bottom: 36px;
+      color: #990000;
+    }
+
+    /* ── Media cards ── */
+    .media-card {
+      border: 1px solid #c8a0a0;
+      border-radius: 4px;
+      margin-bottom: 20px;
+      overflow: hidden;
+    }
+    .media-card-body {
+      padding: 18px 22px;
+    }
+    .media-title {
+      font-size: 1.05rem;
+      font-weight: bold;
+      color: #111;
+      margin-bottom: 4px;
+    }
+    .media-title a {
+      color: #990000;
+    }
+    .media-title a:hover {
+      text-decoration: underline;
+    }
+    .media-meta {
+      font-size: 0.9rem;
+      color: #777;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .site-nav { display: none; flex-direction: column; }
+      .site-nav.open { display: flex; width: 100%; }
+      .hamburger { display: inline; }
+      .page-content { margin: 28px auto; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Header ── -->
+<header class="site-header">
+  <div class="site-title">
+    <a href="https://gmukherjee.github.io/index.html">Gourab Mukherjee</a>
+  </div>
+
+  <nav class="site-nav" id="site-nav">
+    <a href="https://gmukherjee.github.io/homepage.html">Home</a>
+    <a href="https://gmukherjee.github.io/bio.html">Bio</a>
+    <a href="https://gmukherjee.github.io/research.html">Research</a>
+    <a href="https://gmukherjee.github.io/teaching.html">Teaching</a>
+    <a href="https://gmukherjee.github.io/Software/">Software</a>
+    <a href="people.html">People</a>
+    <a href="media.html" class="active">Media</a>
+  </nav>
+
+  <span class="hamburger" onclick="toggleNav()">☰</span>
+</header>
+
+<!-- ── Page content ── -->
+<main class="page-content">
+  <h1>Media</h1>
+
+  <div class="media-card">
+    <div class="media-card-body">
+      <div class="media-title">
+        <a href="https://poetsandquants.com/2024/05/18/2024-best-40-under-40-mba-professors-gourab-mukherjee-marshall-school-of-business-university-of-southern-california/?pq-category=2024&pq-category-2=40-under-40" target="_blank">
+          Best 40 Under 40 MBA Professors 2024
+        </a>
+      </div>
+      <div class="media-meta">Poets &amp; Quants &nbsp;·&nbsp; 18 May 2024</div>
+    </div>
+  </div>
+
+  <div class="media-card">
+    <div class="media-card-body">
+      <div class="media-title">
+        <a href="https://www.deccanherald.com/opinion/hiring-in-the-ai-era-3710885" target="_blank">
+          Hiring in the AI era
+        </a>
+      </div>
+      <div class="media-meta">Deccan Herald &nbsp;·&nbsp; 03 September 2025</div>
+    </div>
+  </div>
+
+  <div class="media-card">
+    <div class="media-card-body">
+      <div class="media-title">
+        <a href="https://www.deccanherald.com/opinion/generative-ai-at-three-promise-profit-or-bubble-3805138" target="_blank">
+          Generative AI at three: Promise, profit, or bubble?
+        </a>
+      </div>
+      <div class="media-meta">Deccan Herald &nbsp;·&nbsp; 20 November 2025</div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+  function toggleNav() {
+    document.getElementById('site-nav').classList.toggle('open');
+  }
+</script>
+</body>
+</html>
