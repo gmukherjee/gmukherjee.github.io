@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A Sample Lecture by Gourab Mukherjee</title>
+<style>
+  :root {
+    --ink: #1c1c1c;
+    --muted: #5a5a5a;
+    --accent: #8c1515;
+    --line: #e2e2e2;
+    --bg: #fdfcfa;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Georgia, "Times New Roman", serif;
+    line-height: 1.6;
+  }
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 64px 24px 80px;
+  }
+  header {
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 24px;
+    margin-bottom: 36px;
+  }
+  h1 {
+    font-size: 2rem;
+    margin: 0 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .subtitle {
+    color: var(--muted);
+    font-size: 1.05rem;
+    margin: 0;
+  }
+  .meta {
+    margin-top: 14px;
+    font-size: 0.92rem;
+    color: var(--muted);
+  }
+  .meta span {
+    display: inline-block;
+    margin-right: 18px;
+  }
+  h2 {
+    font-size: 1.15rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    margin: 0 0 16px;
+    font-weight: 600;
+  }
+  section {
+    margin-bottom: 40px;
+  }
+  .links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 10px;
+  }
+  .links li a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--ink);
+    font-weight: 500;
+    transition: border-color 0.15s ease, background 0.15s ease;
+  }
+  .links li a:hover {
+    border-color: var(--accent);
+    background: #fff;
+  }
+  .links li a .arrow {
+    color: var(--accent);
+    font-weight: 400;
+  }
+  .links li a.disabled {
+    color: #b3b3b3;
+    pointer-events: none;
+    border-style: dashed;
+  }
+  .links li a.disabled .arrow {
+    color: #cfcfcf;
+  }
+  p {
+    margin: 0 0 14px;
+  }
+  .description p:last-child {
+    margin-bottom: 0;
+  }
+  footer {
+    margin-top: 56px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  footer a {
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>A Sample Lecture by Gourab Mukherjee</h1>
+    <p class="subtitle">Simple Linear Regression &mdash; GSBA 524, Full-Time MBA</p>
+    <div class="meta">
+      <span>&#128197; October 6, 2025</span>
+      <span>&#127891; USC Marshall School of Business</span>
+    </div>
+  </header>
+
+  <section>
+    <h2>Materials</h2>
+    <ul class="links">
+      <li><a href="https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6013682b-9dad-4635-9155-b35a013720d0" target="_blank" rel="noopener">Lecture video <span class="arrow">&#8594;</span></a></li>
+      <li><a href="lec11.pdf" target="_blank" rel="noopener">Lecture slides <span class="arrow">&#8594;</span></a></li>
+      <li><a href="lec-11-notes.pdf" target="_blank" rel="noopener">Lecture notes (handwritten) <span class="arrow">&#8594;</span></a></li>
+      <li><a href="data-11.csv" target="_blank" rel="noopener">Data used (diamond price &amp; weight) <span class="arrow">&#8594;</span></a></li>
+    </ul>
+  </section>
+
+  <section class="description">
+    <h2>About this lecture</h2>
+    <p>This lecture is on simple linear regression, taught on October 6, 2025 to full-time MBA students for their GSBA 524 class. I use a document camera in the MBA classroom rather than the whiteboard, since students seated in the back have previously reported difficulty seeing the board, particularly from certain angles. I teach three consecutive sections from 8 AM to 12:30 PM and reuse the same handwritten notes, so the video includes pre-existing handwritten annotations.</p>
+    <p>In simple linear regression, the goal is to predict an attribute of interest based on one explanatory variable. In this lecture, we use a dataset to predict the prices of small diamonds (similar cut and clarity) based on their weight in carats. We begin by reviewing the equation of a line and clarifying the meanings of slope and intercept, then derive the least-squares estimators from a sample and discuss why they are not robust.</p>
+    <p>Next, students complete a hands-on exercise on their laptops. We load the data in R, use GitHub Copilot to estimate the regression line and generate a summary of the regression output, and then interpret each component of that output together. A particular focus is explaining the uncertainty, or variability, associated with regression coefficient estimates. We build on this discussion to introduce the t-test for evaluating the statistical significance of the explanatory variable.</p>
+    <p>The class blends hands-on, software-based implementation with statistical theory about uncertainty when working with samples. Simple linear regression is a crucial topic: it is the foundational statistical model on which the broader range of machine-learning models is built. It is especially important that students leave this lecture with a clear appreciation of the uncertainty and variability inherent in statistical estimates. Building on this lecture, the next class covers multiple linear regression, which involves several explanatory variables.</p>
+  </section>
+
+  <footer>
+    Gourab Mukherjee &middot; USC Marshall School of Business
+  </footer>
+
+</div>
+</body>
+</html>
